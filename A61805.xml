@@ -1,0 +1,662 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dissuasive from revenge in a discourse upon these words, Recompense to no man evil for evil, Rom. 12.17. By Nicolas Stratford, D.D. Dean of S. Asaph.</title>
+            <author>Stratford, Nicholas, 1633-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 97 KB of XML-encoded text transcribed from 81 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61805</idno>
+            <idno type="STC">Wing S5933</idno>
+            <idno type="STC">ESTC R223758</idno>
+            <idno type="EEBO-CITATION">99834041</idno>
+            <idno type="PROQUEST">99834041</idno>
+            <idno type="VID">38520</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61805)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38520)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1839:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dissuasive from revenge in a discourse upon these words, Recompense to no man evil for evil, Rom. 12.17. By Nicolas Stratford, D.D. Dean of S. Asaph.</title>
+                  <author>Stratford, Nicholas, 1633-1707.</author>
+               </titleStmt>
+               <extent>[34], 126 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Chiswell, at the Rose and Crown in S. Paul's Church-Yard,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>MDCLXXXIV. [1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With marginal notes.</note>
+                  <note>Reproduction of the original at the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Romans XII, 17 --  Commentaries --  Early works to 1800.</term>
+               <term>Revenge --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38520:1" rendition="simple:additions"/>
+            <pb facs="tcp:38520:1" rendition="simple:additions"/>
+            <p> A DISSUASIVE FROM REVENGE: IN A DISCOURSE Upon theſe Words, <hi>Recompenſe to no man evil for evil,</hi> Rom. 12. 17.</p>
+            <p>BY NICOLAS STRATFORD, D. D. Dean of S. ASAPH.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Chiſwell,</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in S. <hi>Paul</hi>'s Church-Yard.</p>
+            <p>MDCLXXXIV.</p>
+            <pb facs="tcp:38520:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:38520:2"/>
+            <head>
+               <hi>TO My Worthy and Beloved Friends, THE INHABITANTS OF</hi> Mancheſter <hi>and</hi> Salford.</head>
+            <p>THough after much importunity, I was at length pre<g ref="char:EOLhyphen"/>vailed with to quit my Relation to you; yet 'twas not without great reluctan<g ref="char:EOLhyphen"/>cy and uneaſineſs to my ſelf. And that was the true
+<pb facs="tcp:38520:3"/> and only reaſon, why I took no leave of you; for a ſolemn Farewell, as it would have been no real Benefit to you, ſo, I was well aſſured, that it would have added to my own Affliction.</p>
+            <p>What the prevalent in<g ref="char:EOLhyphen"/>ducement to my removal was, is, I ſuppoſe, well known to your ſelves. As for others, 'tis ſuffici<g ref="char:EOLhyphen"/>ent to let them know, that it was not from any unkind<g ref="char:EOLhyphen"/>neſs to me on your part, nor out of any low or mer<g ref="char:EOLhyphen"/>cenary
+<pb facs="tcp:38520:3"/> reſpects on mine. That I did not conſult my own Eaſe or Profit, or a<g ref="char:EOLhyphen"/>ny other little ſelfiſh Inte<g ref="char:EOLhyphen"/>reſt, the Pariſh for which I left you, is an evident ar<g ref="char:EOLhyphen"/>gument. And ſo far were you from making me wea<g ref="char:EOLhyphen"/>ry of you, by any manner of Diſreſpect or <g ref="char:V">Ʋ</g>nkind<g ref="char:EOLhyphen"/>neſs toward me, that the experience I had of your long-continued and unwea<g ref="char:EOLhyphen"/>ried kindneſs to me, was that, which, above all o<g ref="char:EOLhyphen"/>ther conſiderations, kept me ſo long with you, and
+<pb facs="tcp:38520:4"/> made me always very back<g ref="char:EOLhyphen"/>ward to hearken to any o<g ref="char:EOLhyphen"/>vertures of removing from you.</p>
+            <p>Do not therefore ima<g ref="char:EOLhyphen"/>gine, that I am forgetful of the Favours I have re<g ref="char:EOLhyphen"/>ceived amongſt you. I am indeed highly ſenſible of them, and ſhall ever own my ſelf oblig'd to you for them; and in token of my Gratitude, ſhall not only readily accept, but in<g ref="char:EOLhyphen"/>duſtriouſly ſeek after oppor<g ref="char:EOLhyphen"/>tunities of ſerving you; and ſhall account it a real
+<pb facs="tcp:38520:4"/> addition to my own, if I may be any way inſtru<g ref="char:EOLhyphen"/>mental to advance your Good.</p>
+            <p>And as I heartily wiſh your Wealth and Proſpe<g ref="char:EOLhyphen"/>rity in all other reſpects, ſo I ſhall eſpecially pray for, and (as much as I am able at this diſtance) endeavour to promote the welfare of your ſouls; that they may be proſperous and in health, as your Bodies and out<g ref="char:EOLhyphen"/>ward Eſtates generally are; that ye may grow in Grace, <note place="margin">2 <hi>Pet.</hi> 3. 18.</note> and in the knowledge of
+<pb facs="tcp:38520:5"/> our Lord and Saviour Je<g ref="char:EOLhyphen"/>ſus Chriſt.</p>
+            <p>To which purpoſe I have Printed the enſuing Diſcourſe, and heartily re<g ref="char:EOLhyphen"/>commend it, not only to your Reading, but to your Practice; beſeeching you to accept it, as a ſmall ex<g ref="char:EOLhyphen"/>preſſion of my great Affecti<g ref="char:EOLhyphen"/>on to you.</p>
+            <p>1. S. <hi>Paul</hi> tells us, that <note place="margin">1 <hi>Tim.</hi> 1. 5.</note> 
+               <hi>the end of the Com<g ref="char:EOLhyphen"/>mandment</hi> (that to which the whole Chriſti<g ref="char:EOLhyphen"/>an Doctrine tends, and in which all its parts are uni<g ref="char:EOLhyphen"/>ted,
+<pb facs="tcp:38520:5"/> as lines in a common centre) <hi>is Charity.</hi> That <note place="margin">
+                  <hi>Rom.</hi> 13. 8, 9.</note> 
+               <hi>he that loveth another, hath fulfill'd the Law. For this, Thou ſhalt not commit Adultery, Thou ſhalt not Kill, Thou ſhalt not Steal, Thou ſhalt not bear falſe Wit<g ref="char:EOLhyphen"/>neſs, Thou ſhalt not Covet; and if there be any other Command<g ref="char:EOLhyphen"/>ment, it is briefly com<g ref="char:EOLhyphen"/>prehended in this ſaying, namely, Thou ſhalt love thy Neighbour as thy ſelf.</hi> As all duties
+<pb facs="tcp:38520:6"/> of Piety are contain'd in the love of God; ſo love to our Neighbour is productive of the whole duty we owe to him. For as it follows, <hi>Love</hi> 
+               <note place="margin">
+                  <hi>v.</hi> 10.</note> 
+               <hi>worketh no evil to his Neighbour: No evil</hi> ei<g ref="char:EOLhyphen"/>ther in Thought, Word or Deed. For this a<g ref="char:EOLhyphen"/>lone, will cleanſe our hearts from wiſhing any evil to him; this will ſtop our Mouths, from ſpeak<g ref="char:EOLhyphen"/>ing any evil of him; this will hold our Hands, from doing any evil to him.
+<pb facs="tcp:38520:6"/> Nor will it only reſtrain us from the working of e<g ref="char:EOLhyphen"/>vil, but it will put us up<g ref="char:EOLhyphen"/>on the doing of all that Good for him, which we would deſire he ſhould do for us, were we in his cir<g ref="char:EOLhyphen"/>cumſtances, and he in ours; and will make us as truly condole with him in his Miſery, and rejoice in his Happineſs, as if we our ſelves were in his condition.</p>
+            <p>So great a Grace is Cha<g ref="char:EOLhyphen"/>rity, ſo comprehenſive, that it carries all other Graces
+<pb facs="tcp:38520:7"/> along with it; and in pro<g ref="char:EOLhyphen"/>portion to our increaſe in this, will be our proficien<g ref="char:EOLhyphen"/>cy in all the reſt.</p>
+            <p>We need not therefore wonder that our bleſſed Saviour, (whoſe great deſign was to render his Diſciples exemplary to the reſt of mankind, in all vir<g ref="char:EOLhyphen"/>tuous diſpoſitions of mind) hath ſo much inculcated this Grace upon us, ſo ve<g ref="char:EOLhyphen"/>hemently preſs'd it with the moſt efficacious argu<g ref="char:EOLhyphen"/>ments, and ſo powerfully recommended it to our pra<g ref="char:EOLhyphen"/>ctice
+<pb facs="tcp:38520:7"/> by his own unparal<g ref="char:EOLhyphen"/>lel'd example. And not only ſo, but as if this were that Grace, which above all other, would adorn our Profeſſion, and recommend him and his Religion to the good eſteem of the World, he hath made it the peculiar Badge of his Diſciples; For <hi>by this,</hi> 
+               <note place="margin">
+                  <hi>Joh.</hi> 13. 35.</note> ſaith he, <hi>ſhall all men know that ye are my Diſciples, if ye love one another.</hi>
+            </p>
+            <p>And this was indeed the Character by which the
+<pb facs="tcp:38520:8"/> firſt Chriſtians were con<g ref="char:EOLhyphen"/>ſpicuous and diſtinguiſh'd from men of all other Re<g ref="char:EOLhyphen"/>ligions: While they were generally hated and perſe<g ref="char:EOLhyphen"/>cuted, and <hi>look'd upon as the filth and off-ſcour<g ref="char:EOLhyphen"/>ing of all things,</hi> ſuch was their love, not barely one to another, but even to their Perſecutors; that the Heathen World ſtood a<g ref="char:EOLhyphen"/>maz'd at it, and their moſt obſtinate Enemies, were ei<g ref="char:EOLhyphen"/>ther confounded or conver<g ref="char:EOLhyphen"/>ted by it.</p>
+            <pb facs="tcp:38520:8"/>
+            <p> As therefore the be<g ref="char:EOLhyphen"/>loved Diſciple, when by age he was diſabled to preach, ſaid no more to his Auditors, than <hi>Little Children love one ano<g ref="char:EOLhyphen"/>ther,</hi> becauſe this is vir<g ref="char:EOLhyphen"/>tually All; for as it pre<g ref="char:EOLhyphen"/>ſuppoſes the love of God, ſo it includes in it our whole Duty to Man, all the ſeveral parts of which, are but ſo many ſtreams which flow from this as their common fountain; ſo in like manner I earneſt<g ref="char:EOLhyphen"/>ly exhort and beſeech you,
+<pb facs="tcp:38520:9"/> that <hi>ye be kindly affecti<g ref="char:EOLhyphen"/>oned</hi> 
+               <note place="margin">
+                  <hi>Rom.</hi> 12. 10.</note> 
+               <hi>one to another with brotherly love, in ho<g ref="char:EOLhyphen"/>nour preferring one a<g ref="char:EOLhyphen"/>nother. That ye love</hi> 
+               <note place="margin">1 <hi>Pet.</hi> 1. 22.</note> 
+               <hi>one another with a pure heart fervently.</hi> That by this means <hi>ye may be perfect and entire, wan<g ref="char:EOLhyphen"/>ting nothing;</hi> but being readily diſpos'd to every good work, may ſtand <hi>com<g ref="char:EOLhyphen"/>pleat in the whole will of God.</hi>
+            </p>
+            <p>Nor is this charitable temper of ſoul, more ad<g ref="char:EOLhyphen"/>vantageous to your Duty,
+<pb facs="tcp:38520:9"/> than it is to your intereſt; as it is in its fruits plea<g ref="char:EOLhyphen"/>ſant and profitable, and every way beneficial both to your ſelves and to your Neighbours. For,</p>
+            <p>2. Let this Grace rule in your hearts, and there will be no Strifes nor Debates, no croſſing the Deſigns, nor under<g ref="char:EOLhyphen"/>mining the Intereſts one of another; but ye will all conſpire as members of one and the ſame body, to promote each others happineſs. For this a<g ref="char:EOLhyphen"/>lone
+<pb facs="tcp:38520:10"/> will expell and ſubdue all thoſe miſchievous Paſ<g ref="char:EOLhyphen"/>ſions and inordinate Ap<g ref="char:EOLhyphen"/>petites, that are the great and only diſturbers of your Peace, and will poſſeſs your ſouls with all thoſe benign and gracious Diſ<g ref="char:EOLhyphen"/>poſitions, that do beget, and preſerve, and increaſe, and continue it.</p>
+            <p>What are the great Make-bates and Deſtroy<g ref="char:EOLhyphen"/>ers of Peace, but Pride, Envy, Covetouſneſs, An<g ref="char:EOLhyphen"/>ger, Wrath, Bitterneſs, Revenge, and other ſuch
+<pb facs="tcp:38520:10"/> like malignant ill-natured Affections? All which are baniſh'd from, and can find no entertainment in that ſoul in which Cha<g ref="char:EOLhyphen"/>rity reigns. For <hi>Cha<g ref="char:EOLhyphen"/>rity</hi> 
+               <note place="margin">1 <hi>Cor.</hi> 13. 4, 5, 6, 7.</note> 
+               <hi>envyeth not, vaun<g ref="char:EOLhyphen"/>teth not it ſelf, is not puffed up, doth not behave it ſelf unſeemly, ſeeketh not her own, is not eaſily provoked, thinketh no evil, rejoy<g ref="char:EOLhyphen"/>ceth not in Iniquity, but rejoiceth in the Truth.</hi>
+            </p>
+            <pb facs="tcp:38520:11"/>
+            <p> So far is a charitable perſon from repining at his Neighbours Good, that he heartily rejoiceth at it; and were it in the power of his hand to ef<g ref="char:EOLhyphen"/>fect, as it is of his Heart to wiſh it, he would leave no man deſtitute of any good, which he could wiſh to enjoy himſelf. And in caſe he do not meet with that good e<g ref="char:EOLhyphen"/>ſteem and kind uſage he may juſtly expect from his Neighbours, as he is not troubled and diſquieted in
+<pb facs="tcp:38520:11"/> his own mind, ſo conſe<g ref="char:EOLhyphen"/>quently he cannot be trou<g ref="char:EOLhyphen"/>bleſome or vexatious to them; but ſits down con<g ref="char:EOLhyphen"/>tented, chuſing rather to be accounted nothing, than by endeavouring to make himſelf ſomething, to di<g ref="char:EOLhyphen"/>ſturb their eaſe and repoſe. He is indeed poſſeſs'd with ſuch a low opinion of his own worth, that he can<g ref="char:EOLhyphen"/>not take it ill, if others think meanly of him too; yea the higher he is ex<g ref="char:EOLhyphen"/>alted by God in any en<g ref="char:EOLhyphen"/>dowments above others,
+<pb facs="tcp:38520:12"/> the lower he debaſes him<g ref="char:EOLhyphen"/>ſelf for the good of others. As he doth not behave himſelf unſeemly to any man; ſo he thinks nothing unbecoming and unworthy of himſelf, by which he may be really ſerviceable to the Good of any. And no wonder that he readi<g ref="char:EOLhyphen"/>ly condeſcends to the mean<g ref="char:EOLhyphen"/>eſt employments, for the benefit of his Brethren; becauſe he ſeeketh not his own, but is of ſuch a ge<g ref="char:EOLhyphen"/>nerous temper, that he ſtu<g ref="char:EOLhyphen"/>dies the Profit of others
+<pb facs="tcp:38520:12"/> alſo. And being of ſuch a publick ſpirit, he is not ea<g ref="char:EOLhyphen"/>ſily provok'd to wrath, up<g ref="char:EOLhyphen"/>on the account of any pri<g ref="char:EOLhyphen"/>vate wrong; as he care<g ref="char:EOLhyphen"/>fully endeavours not to give, ſo he is ſlow to take Offence; becauſe he is not apt to entertain an ill con<g ref="char:EOLhyphen"/>ceit of others, or to put a bad conſtruction upon their Words and Actions, but will ever interpret that which is doubtful, to the moſt favourable ſenſe: And when it is ſo appa<g ref="char:EOLhyphen"/>rent, that his Neighbour
+<pb facs="tcp:38520:13"/> is to blame, that he can<g ref="char:EOLhyphen"/>not wholly excuſe him, yet he will not fail to make allowances for Infirmities, and as far as he can with truth and honeſty, will ex<g ref="char:EOLhyphen"/>tenuate thoſe Faults which he cannot abſolutely deny: Yea, though he ſees that his Neighbour is malici<g ref="char:EOLhyphen"/>ouſly ſet againſt him, and deſignedly does him all the miſchief he can; yet he will not ſuffer the Peace to be broken on his part; but notwithſtanding the utmoſt Provocations, he is
+<pb facs="tcp:38520:13"/> meek and humble, and pa<g ref="char:EOLhyphen"/>tient and ready to forgive; All the good he receives from his Neighbour, he owns himſelf indebted to him for, and is ready, as he has opportunity to repay it; but ſo far is he from repaying of Evil, that he requites it only with Good.</p>
+            <p>Such are the peacea<g ref="char:EOLhyphen"/>ble fruits of Charity; ſo that in proportion to the growth of this among you, will be your Peace and <g ref="char:V">Ʋ</g>nity among your ſelves.
+<pb facs="tcp:38520:14"/> And, <hi>O how good and</hi> 
+               <note place="margin">
+                  <hi>Pſal.</hi> 133. 1.</note> 
+               <hi>pleaſant a thing is it, for Brethren to dwell together in Unity!</hi>
+            </p>
+            <p>3. Nor will Charity only maintain Peace a<g ref="char:EOLhyphen"/>mong your ſelves, but 'twill alſo keep you from creating any manner of Moleſtation or Diſtur<g ref="char:EOLhyphen"/>bance to your Gover<g ref="char:EOLhyphen"/>nours.</p>
+            <p>Juſtice teaches you, to <hi>render to Caeſar the</hi> 
+               <note place="margin">
+                  <hi>Rom.</hi> 13. 7.</note> 
+               <hi>things that are Caeſar's;</hi> yea, to <hi>render to all men their dues, Tribute</hi>
+               <pb facs="tcp:38520:14"/> 
+               <hi>to whom Tribute is due, Cuſtom to whom Cu<g ref="char:EOLhyphen"/>ſtom, Fear to whom Fear, Honour to whom Honour.</hi> And Chari<g ref="char:EOLhyphen"/>ty, which is more liberal and open handed, will be ſo far from not giving them what is their due, that rather than uſurp up<g ref="char:EOLhyphen"/>on their Rights, it will chuſe to part with its own.</p>
+            <p>Beſides, Charity and Humility are inſeparable companions, they mutual<g ref="char:EOLhyphen"/>ly beget and nurſe up each
+<pb facs="tcp:38520:15"/> other; ſo that by how much the higher you grow in Charity, by ſo much the lower will you grow in Humility.</p>
+            <p>Now a humble perſon is ſo far from exalting himſelf above thoſe that are over him, that he readily ſtoops to thoſe that are under him. He accounts nothing a greater inſtance of Pride and Arrogance, than to controll thoſe, to whom he is in duty bound to ſubmit; to preſcribe Laws to thoſe, from whom
+<pb facs="tcp:38520:15"/> he ought to receive them; ſince this is by interpreta<g ref="char:EOLhyphen"/>tion, to ſet himſelf above God, whoſe Authority Magiſtrates are inveſted with, and whoſe Vicege<g ref="char:EOLhyphen"/>rents they are. He leaves it therefore to his Gover<g ref="char:EOLhyphen"/>nours to determine what is fit to be impos'd, and thinks himſelf only con<g ref="char:EOLhyphen"/>cern'd to obey; and if it ſometime happen, that he is not able to diſcern the reaſon of a Law, yet he queſtions not, but there is ſufficient reaſon for it, be<g ref="char:EOLhyphen"/>cauſe
+<pb facs="tcp:38520:16"/> his Superiours (as ſtanding upon higher ground) are able to ſee further than he can. He doth not therefore diſpute, much leſs remonſtrate a<g ref="char:EOLhyphen"/>gainſt their Injunctions, but humbly bows and ſub<g ref="char:EOLhyphen"/>mits to them.</p>
+            <p>And if he be unhappi<g ref="char:EOLhyphen"/>ly brought to this Exigent, that he cannot do what his Governours command, un<g ref="char:EOLhyphen"/>leſs he break the Com<g ref="char:EOLhyphen"/>mands of the abſolute So<g ref="char:EOLhyphen"/>veraign of Heaven and Earth; he will then raiſe
+<pb facs="tcp:38520:16"/> no oppoſition either againſt their Perſons or Govern<g ref="char:EOLhyphen"/>ment, but meekly ſuffer what they inflict, as know<g ref="char:EOLhyphen"/>ing that they are the Mi<g ref="char:EOLhyphen"/>niſters of God, and that whoſoever reſiſteth them, riſeth up in Rebellion a<g ref="char:EOLhyphen"/>gainſt God himſelf.</p>
+            <p>If therefore you are un<g ref="char:EOLhyphen"/>der the power of this Grace, you will not need to be taught, <hi>to obey</hi> 
+               <note place="margin">
+                  <hi>Heb.</hi> 13. 17. 1 <hi>Pet.</hi> 2 13, 14.</note> 
+               <hi>them that have the rule over you; to ſubmit your ſelves to every hu<g ref="char:EOLhyphen"/>mane Ordinance, whe<g ref="char:EOLhyphen"/>ther</hi>
+               <pb facs="tcp:38520:17"/> 
+               <hi>it be to the King as Supream, or unto Go<g ref="char:EOLhyphen"/>vernours, as to thoſe that are ſent by him;</hi> becauſe this alone, will ſo effectual<g ref="char:EOLhyphen"/>ly diſpoſe you to yield obedi<g ref="char:EOLhyphen"/>ence to theſe Precepts, that you will not be able without offering violence to your ſelves, to do otherwiſe.</p>
+            <p>But I will not be over tedious, and therefore ſhall remit you to the following Diſcourſe, in which you will find one prime branch of this Divine Grace, (which hath ſo powerful
+<pb facs="tcp:38520:17"/> an influence for the produ<g ref="char:EOLhyphen"/>cing of thoſe foremention'd, and many other bleſs'd effects) recommended to your conſideration, Affecti<g ref="char:EOLhyphen"/>on and Practice.</p>
+            <p>
+               <hi>Finally, Brethren,</hi> 
+               <note place="margin">2 <hi>Cor.</hi> 13. 11.</note> 
+               <hi>farewell: Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace be with you.</hi> I ſhall ever remain,</p>
+            <closer>
+               <signed>
+                  <hi>Your faithful and affectionate Friend and Servant,</hi> Nic. Stratford.</signed>
+            </closer>
+            <pb facs="tcp:38520:18"/>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:38520:18"/>
+            <epigraph>
+               <q>
+                  <bibl>ROM. XII. 17.</bibl>
+                  <p>
+                     <hi>Recompenſe to no man evil for evil.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>THough no Precept can be more plain, yet we ſhall ſcarce find any that is more generally neglected. So much is the ſin in faſhion that is here pro<g ref="char:EOLhyphen"/>hibited, that he is thought unworthy the name of a Man, who does not practiſe it; and nothing is look'd upon as a more undoubted argument of a poor, cowardly Spirit, than patiently to paſs over,
+<pb n="2" facs="tcp:38520:19"/> and tamely to put up an in<g ref="char:EOLhyphen"/>jury.</p>
+            <p>Yea, ſo far are many from not <hi>recompenſing evil for evil,</hi> that they <hi>recompenſe evil for good;</hi> they <hi>curſe</hi> thoſe <hi>that bleſs them, and deſpitefully uſe thoſe who</hi> moſt heartily <hi>pray for them.</hi>
+            </p>
+            <p>And though 'tis true, that in all Ages men have been more or leſs propenſe to this evil practice, yet in the preſent Age, by reaſon of a more than ordinary concur<g ref="char:EOLhyphen"/>rence of many unhappy Cau<g ref="char:EOLhyphen"/>ſes, more irreconcileable Diſ<g ref="char:EOLhyphen"/>ſentions, more implacable Animoſities, more bitter En<g ref="char:EOLhyphen"/>vyings; in a word, more ill nature and malignity of tem<g ref="char:EOLhyphen"/>per are to be found, than for<g ref="char:EOLhyphen"/>merly;
+<pb n="3" facs="tcp:38520:19"/> by reaſon of which, men are more ſtrongly bent, more impetuouſly hurried, both to the doing and repay<g ref="char:EOLhyphen"/>ing of injuries one to another. And therefore a Diſcourſe upon this Subject, is now more eſpecially ſeaſonable, in order to the calming of mens inraged paſſions, the ſweetening of their imbit<g ref="char:EOLhyphen"/>ter'd Spirits, the reſtoring of peace, the reviving of Cha<g ref="char:EOLhyphen"/>rity, and the putting a ſtop to the further growth of this unchriſtian practice.</p>
+            <p>And that the inſuing Diſ<g ref="char:EOLhyphen"/>courſe may by the grace of God be effectual to theſe great and bleſſed ends, after I ſhall have firſt ſpoken ſome<g ref="char:EOLhyphen"/>what briefly of the practice
+<pb n="4" facs="tcp:38520:20"/> here prohibited, declaring the import and extent of it; I ſhall ſhew you how ſinful and fooliſh, how irreligious and unreaſonable it is, by ſuch Arguments, as may be of force to convince your judg<g ref="char:EOLhyphen"/>ments, and to work your Wills and Affections to an utter averſation from, and abhorrence of it.</p>
+            <p>1. As to the firſt; that which is here prohibited, is in the general, the repaying of <hi>evil for evil.</hi> For the more full underſtanding of which, and the right ſtating of our Duty, I ſhall briefly ſhew theſe <hi>four</hi> things.</p>
+            <p n="1">1. The extent of the <hi>evil</hi> here forbidden to be recom<g ref="char:EOLhyphen"/>penſed.</p>
+            <p n="2">
+               <pb n="5" facs="tcp:38520:20"/> 2. How many wayes a man may be ſaid to <hi>recompenſe evil for evil.</hi>
+            </p>
+            <p n="3">3. That the Prohibition reaches to all men, of what degree or quality ſoever. Or, that no man is permit<g ref="char:EOLhyphen"/>ted to <hi>recompenſe evil for e<g ref="char:EOLhyphen"/>vil.</hi>
+            </p>
+            <p n="4">4. No, not to any man; there being no man in the world, to whom any man in the world, may <hi>recompenſe evil for evil.</hi>
+            </p>
+            <p n="1">1. <hi>Firſt,</hi> The evil here forbidden to be recompenſed, is not this or that evil only; but evil indefinitely, and without limitation; and ſo is comprehenſive of all ſorts and degrees of wrong that one man can receive from
+<pb n="6" facs="tcp:38520:21"/> another. Whether it be that evil which is hurtful to his Mind, as Grief and Vexati<g ref="char:EOLhyphen"/>on; Or to his Body, as Stripes and Wounds; Or to his Goods, as Theft and Ra<g ref="char:EOLhyphen"/>pine; Or to his Reputation, as Reproach and Slander. Whether it be the evil of the Hand, or of the Tongue; Or but ſo much as the evil of the Eye, the envying the happineſs of another, or wiſhing that miſchief may befall him, which he before wiſh'd might fall upon us. In ſhort, there is no kind of evil that one man can do to another; and therefore no miſchief that one man can receive from another, that the <hi>evil</hi> in the Text does not
+<pb n="7" facs="tcp:38520:21"/> extend to; and conſequently no kind of injury that we are not here forbidden to <hi>recom<g ref="char:EOLhyphen"/>penſe.</hi>
+            </p>
+            <p n="2">2. <hi>Secondly,</hi> We may <hi>recom<g ref="char:EOLhyphen"/>penſe evil for evil</hi> theſe two ways. Either <hi>Firſt,</hi> by re<g ref="char:EOLhyphen"/>paying evil in the ſame kind; as by returning blow for blow, railing for railing. Or <hi>Secondly,</hi> by repaying it in ſome other kind; as by pu<g ref="char:EOLhyphen"/>niſhing another in his Eſtate, for the Injury he hath done us in our Body or good Name. And this Recompenſe may be made either by our ſelves, or by procuring that it be done by others. That a man ſhould be his own aven<g ref="char:EOLhyphen"/>ger, was not permitted by God to the <hi>Jews.</hi> For that
+<pb n="8" facs="tcp:38520:22"/> Law of Retaliation, requi<g ref="char:EOLhyphen"/>ring <note place="margin">Exod. 21. 22, 23, 24.</note> 
+               <hi>eye for eye, tooth for tooth, wound for wound, ſtripe for ſtripe;</hi> the execution of it was re<g ref="char:EOLhyphen"/>ſerv'd to the publick Magi<g ref="char:EOLhyphen"/>ſtrate upon complaint made by the injur'd party. And therefore it cannot be ſo much as imagin'd, that ſuch a liberty as this ſhould be indulg'd to Chriſtians, whoſe hands are more cloſely and ſtrongly tied up from retalia<g ref="char:EOLhyphen"/>ting of injuries than the <hi>Jews</hi> were.</p>
+            <p>Nor is it enough for a Chriſtian not to repay him<g ref="char:EOLhyphen"/>ſelf, the wrong he hath re<g ref="char:EOLhyphen"/>ceiv'd; but he is moreover oblig'd, not to procure or endeavour, no nor ſo much as deſire, that it may be re<g ref="char:EOLhyphen"/>paid
+<pb n="9" facs="tcp:38520:22"/> by others. Some per<g ref="char:EOLhyphen"/>ſons, who readily grant, that they may not avenge them<g ref="char:EOLhyphen"/>ſelves by their own hands, think they may be al<g ref="char:EOLhyphen"/>low'd to do it, by the Mini<g ref="char:EOLhyphen"/>ſters of publick Juſtice: in caſe therefore of any injury received, their next work is to addreſs to the Magiſtrate, and under the ſpecious pre<g ref="char:EOLhyphen"/>tences of Law and Juſtice, to wreak their Revenge up<g ref="char:EOLhyphen"/>on their offending Brother; Whereas this is in truth, to <hi>recompenſe evil,</hi> as much as the other; for though the Executioner be not the ſame, yet what difference is there, as to the thing it ſelf, whether a man receive the ſame wound, from my own hands,
+<pb n="10" facs="tcp:38520:23"/> or from the hands of ano<g ref="char:EOLhyphen"/>ther that are ſet on work by me? He doubtleſs is as highly criminal before God, who procures an evil to be done by another, as he that doth it himſelf. And there<g ref="char:EOLhyphen"/>fore this falls under the pro<g ref="char:EOLhyphen"/>hibition in the Text no leſs than the former.</p>
+            <p>But becauſe in matters of wrong, a man may lawful<g ref="char:EOLhyphen"/>ly in ſeveral Caſes fly for San<g ref="char:EOLhyphen"/>ctuary to the Law (though never for repaying the wrongs received, and that he may be even with his Adver<g ref="char:EOLhyphen"/>ſary) for prevention of mi<g ref="char:EOLhyphen"/>ſtakes, and in order to your further ſatisfaction, I ſhall in a few words tell you, what is permitted to a Chriſtian in
+<pb n="11" facs="tcp:38520:23"/> this caſe, and from thence in<g ref="char:EOLhyphen"/>fer what it is that is here for<g ref="char:EOLhyphen"/>bidden.</p>
+            <p>
+               <hi>Firſt,</hi> A man may lawful<g ref="char:EOLhyphen"/>ly defend himſelf, and his juſt Rights, againſt the aſſaults of an injurious perſon. Thus S. <hi>Paul</hi> did again and again; One while we find him plead<g ref="char:EOLhyphen"/>ing <note place="margin">Act. 22. 2.</note> his priviledge as a Citi<g ref="char:EOLhyphen"/>zen of <hi>Rome,</hi> and under the protection of the <hi>Roman</hi> Laws, ſecuring himſelf from the evil deſigns of his Adver<g ref="char:EOLhyphen"/>ſaries. At another time we hear him appealing to <hi>Caeſar,</hi> 
+               <note place="margin">Act. 25. 10, 11.</note> when <hi>Feſtus,</hi> to gratifie the <hi>Jews,</hi> would have deliver'd him up into their hands. 'Tis not therefore defenſive, but offenſive weapons that we
+<pb n="12" facs="tcp:38520:24"/> are forbidden the uſe of. We may by all innocent means, endeavour to ſave our ſelves from hurt; though we may not ſo much as wiſh the miſchief of our Neighbour, how injurious ſoever to us.</p>
+            <p>
+               <hi>Secondly,</hi> We may lawfully require Reſtitution or ſatis<g ref="char:EOLhyphen"/>faction, for the damage we have ſuſtain'd, and in caſe the Offender be ſo unjuſt as to deny it, we may by the aſſiſtance of the Magiſtrate extort it from him. But with theſe <hi>two</hi> Cautions.</p>
+            <p n="1">1. Provided, that the da<g ref="char:EOLhyphen"/>mage be conſiderable; for to create trouble and charges to another for a ſlight trifling
+<pb n="13" facs="tcp:38520:24"/> intereſt, is utterly inconſi<g ref="char:EOLhyphen"/>ſtent with that Meekneſs and Gentleneſs, and Good<g ref="char:EOLhyphen"/>neſs and Mercy, which are the conſtitutive ingredients of a Chriſtian. And this is that only which ſeems to be forbidden by our Saviour, <hi>Matth.</hi> 5. <hi>If thine enemy ſmite thee on the right cheek, turn to him the other alſo; and if he ſue thee at the Law, and take away thy coat, let him have thy cloak alſo,</hi> &amp;c. But when the loſs is ſuch, as in the judgment of unpaſſionate and diſinte<g ref="char:EOLhyphen"/>reſs'd perſons is valuable; ſuch as if not repaired, may render us leſs able to diſ<g ref="char:EOLhyphen"/>charge thoſe duties that ei<g ref="char:EOLhyphen"/>ther in our private or publick capacities are incumbent up<g ref="char:EOLhyphen"/>on
+<pb n="14" facs="tcp:38520:25"/> us, we may then exact an amends from him who was the cauſe of it.</p>
+            <p n="2">2. Provided the Offender be able, either in whole, or at leaſt in part, to make repa<g ref="char:EOLhyphen"/>ration. For to proſecute him who has done the wrong, in caſe I know he is utterly un<g ref="char:EOLhyphen"/>able to make any part of a<g ref="char:EOLhyphen"/>mends for it, can be nothing elſe but purely to render <hi>evil for evil;</hi> becauſe I do evil to him, without doing any good to my ſelf; I add to his bur<g ref="char:EOLhyphen"/>den, and do not at all light<g ref="char:EOLhyphen"/>en my own. Yea, that I may make him more miſe<g ref="char:EOLhyphen"/>rable, I make my ſelf ſo too, by putting my ſelf to a fruit<g ref="char:EOLhyphen"/>leſs expence and trouble, and by expoſing my ſelf as well
+<pb n="15" facs="tcp:38520:25"/> as my Neighbour, to thoſe many temptations to injuſtice and uncharitableneſs, which a Law ſuit is ever attended with.</p>
+            <p>But in caſe the Offender be fairly reſponſible for the Wrong he hath done; and the Wrong be ſo bur<g ref="char:EOLhyphen"/>thenſome, that we cannot without much pain and af<g ref="char:EOLhyphen"/>fliction bear the weight of it; I know nothing in the Laws of Chriſt, that forbids us to relieve our ſelves, by exact<g ref="char:EOLhyphen"/>ing ſatisfaction in a legal way from the party injuri<g ref="char:EOLhyphen"/>ous.</p>
+            <p>Provided ſtill, that we do it with a ſingle deſign of re<g ref="char:EOLhyphen"/>pairing our Rights, without any mixture of malice, with<g ref="char:EOLhyphen"/>out
+<pb n="16" facs="tcp:38520:26"/> any deſire of doing miſ<g ref="char:EOLhyphen"/>chief to the wrong-doer; and that we give proof of our charitable affection to<g ref="char:EOLhyphen"/>ward him, by putting him to no more grief than needs muſt; and by being ready, as occaſion ſerves, to requite his Injuries with kindneſſes. If theſe Cautions be obſerv'd, I think it is no way unbe<g ref="char:EOLhyphen"/>coming our Chriſtian Pro<g ref="char:EOLhyphen"/>feſſion, to ſeek a reparation of the loſſes we have ſu<g ref="char:EOLhyphen"/>ſtain'd.</p>
+            <p n="3">3. In caſe the Wrong be not barely to our ſelves, but ſuch as redounds to the damage of the publick, 'tis not only lawful, but it may be our Duty to proſecute the Offender. When our private
+<pb n="17" facs="tcp:38520:26"/> intereſt is ſo wrapt up with that of others, that we can<g ref="char:EOLhyphen"/>not relinquiſh our own, without betraying of their Rights; not only in Juſtice, but in Charity too, we may be oblig'd to a legal Proceſs; And becauſe we are bound to prefer the Publick before any particular mans private benefit, we ſhould ſhew our ſelves unworthy of humane Society, ſhould we neglect the redreſs of an injury, that is any way deſtructive of the publick good.</p>
+            <p>Now, though in the caſes mention'd, much evil may be ſometimes brought upon the delinquent party; yet ſince this evil is that which the perſon injured doth not
+<pb n="18" facs="tcp:38520:27"/> ſo much as deſire, much leſs endeavour; but would on the contrary, if it were in his power, prevent; and the on<g ref="char:EOLhyphen"/>ly thing he deſigns and en<g ref="char:EOLhyphen"/>deavours, is the defence or re<g ref="char:EOLhyphen"/>covery of his own, or the publick Rights; therefore the miſchiefs which unavoi<g ref="char:EOLhyphen"/>dably happen to the Crimi<g ref="char:EOLhyphen"/>nal, are not to be imputed to him that proſecutes, but to be laid at his own door.</p>
+            <p>The thing then that is here forbidden, is, the return<g ref="char:EOLhyphen"/>ing of evil to another, not with a deſign ſimply to repair our own loſſes, or to ſecure the publick good; but on purpoſe to grieve and afflict him, who hath before afflict<g ref="char:EOLhyphen"/>ed
+<pb n="19" facs="tcp:38520:27"/> us, that we may thereby gratifie our own angry and revengeful humour. When we ſhall wound another in his Body, Goods, or Name, becauſe we have ſuffered a wound from him, though the wound we give, can af<g ref="char:EOLhyphen"/>ford no cure for that we have receiv'd: Yea though in the proſecution of ſuch un<g ref="char:EOLhyphen"/>worthy malicious ends, we take Sanctuary at publick Ju<g ref="char:EOLhyphen"/>ſtice, and require no more than the Law of the Land allows; though there be a neceſſity that humane Laws ſhould interpoſe in matters of this nature; and tho' the Judge may not deny what the Law grants, if we are ſo uncha<g ref="char:EOLhyphen"/>ritable as to demand it; and
+<pb n="20" facs="tcp:38520:28"/> though in no human Court we ſtand accuſable for any crime upon this account; yet ſo unworthy a thing is this, ſo much below that noble and generous Spirit that Chriſt came to raiſe and ex<g ref="char:EOLhyphen"/>alt us to, that he thought fit to forbid it, and that not only to ſome, but to all men; which brings me to the next thing propos'd.</p>
+            <p>3. The perſons to whom this Command is given, are all the Sons and Daughters of men, to whom it ſhall ever come. As the foregoing Precepts, <hi>Let love be without disſimulation. Abhor that which is evil, cleave to that which is good. Be kindly affection'd one to another,</hi> &amp;c. extend to all
+<pb n="21" facs="tcp:38520:28"/> men, ſo does this too. And therefore in another Text the note of univerſality is expreſs<g ref="char:EOLhyphen"/>ly annex'd, <hi>ſee that none render</hi> 
+               <note place="margin">1 Theſſ. 5. 15.</note> 
+               <hi>evil for evil.</hi> No perſon of what quality or degree ſoe<g ref="char:EOLhyphen"/>ver.</p>
+            <p>Which I the rather obſerve, becauſe I find that ſome per<g ref="char:EOLhyphen"/>ſons, who treat upon this ſubject, do exempt the Ma<g ref="char:EOLhyphen"/>giſtrate; the reaſon is, be<g ref="char:EOLhyphen"/>cauſe he is indiſpenſably bound by virtue of his Office, to recompenſe evil to evil<g ref="char:EOLhyphen"/>doers. But this exception ought not to be made. Not that I think the Magiſtrate, is not oblig'd to render evil to thoſe that do evil; but be<g ref="char:EOLhyphen"/>cauſe the evil of Puniſhment inflicted by the Magiſtrate, is
+<pb n="22" facs="tcp:38520:29"/> ſo widely different from that of Revenge here forbidden, that if we extend this Com<g ref="char:EOLhyphen"/>mand to the Magiſtrate, 'twill be no bar to the execu<g ref="char:EOLhyphen"/>tion of his Office.</p>
+            <p>That therefore I may give the Magiſtrate his due, I not barely grant, but aſſert, that he is commiſſion'd by God, for the puniſhment of evil<g ref="char:EOLhyphen"/>doers, as well as for the praiſe of them that do well. This we are taught by the two great Apoſtles, S. <hi>Paul</hi> and S. <hi>Peter.</hi> S. <hi>Paul</hi> tells us, <hi>That Rulers are not a terrour</hi> 
+               <note place="margin">Rom. 13. 3, 4.</note> 
+               <hi>to good works, but to the evil. Wilt thou not then</hi> (ſaith he) <hi>be afraid of the Power? do that which is good, and thou ſhalt have praiſe of the ſame, for he is the</hi>
+               <pb n="23" facs="tcp:38520:29"/> 
+               <hi>Miniſter of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the Sword in vain; for he is the Mi<g ref="char:EOLhyphen"/>niſter of God, a Revenger to execute wrath upon him that doth evil.</hi> And S. <hi>Peter</hi> com<g ref="char:EOLhyphen"/>mands us to <hi>be ſubject to every</hi> 
+               <note place="margin">1 Pet. 2. 13, 14.</note> 
+               <hi>Ordinance of man for the Lords ſake, not only to the King as Su<g ref="char:EOLhyphen"/>preme, but unto Governours alſo, as unto thoſe that are ſent</hi> (that is, commiſſionated) <hi>by him, for the puniſhment of evil<g ref="char:EOLhyphen"/>doers, and for the praiſe of them that do well.</hi>
+            </p>
+            <p>Yea, I grant, not only that the publick Magiſtrate, but that Parents and Maſters, and other Superiours in private Authority, are inveſted with power to puniſh thoſe that
+<pb n="24" facs="tcp:38520:30"/> are under their charge, pro<g ref="char:EOLhyphen"/>portionable to the merits of their Offences, in all ſuch ca<g ref="char:EOLhyphen"/>ſes as are not reſerved to the publick Magiſtrate. And which is more; that not only wrongs done to others, but even perſonal injuries, or thoſe done to themſelves, by thoſe that are placed in ſub<g ref="char:EOLhyphen"/>jection under them, may be lawfully puniſhed by a Ma<g ref="char:EOLhyphen"/>giſtrate, Parent or Maſter reſpectively.</p>
+            <p>But though all this be granted, yet it will not hence follow, but that the Supreme Magiſtrate himſelf is as much obliged to the Duty in the Text, as the meaneſt of his Subjects (and therefore pri<g ref="char:EOLhyphen"/>vate Governours much ra<g ref="char:EOLhyphen"/>ther).
+<pb n="25" facs="tcp:38520:30"/> The reaſon is, becauſe the evil here forbidden, is that of Revenge (in the ſtrict no<g ref="char:EOLhyphen"/>tion of it) which both in its Original, Attendants, and Ends, is ſo remote from the puniſhment of Delinquents by perſons in Authority, that a man may daily inflict the one without being touched with the Guilt of the other. For, 1. In Revenge, the per<g ref="char:EOLhyphen"/>ſon <note place="margin">
+                  <hi>Epiſcop. de Magi<g ref="char:EOLhyphen"/>ſtrat.</hi> c. 7.</note> who takes it, apprehends himſelf injured, either in his Perſon, or in his Relatives, or in ſome thing that apper<g ref="char:EOLhyphen"/>tains to him: Whereas it rare<g ref="char:EOLhyphen"/>ly in compariſon happens that the Magiſtrate himſelf is inju<g ref="char:EOLhyphen"/>red by thoſe he puniſhes. And ſo far is it from being neceſſa<g ref="char:EOLhyphen"/>ry, that it ſhould be ſo, that
+<pb n="26" facs="tcp:38520:31"/> ſometimes on the contrary, the perſons puniſhed by him are ſuch as have highly ob<g ref="char:EOLhyphen"/>lig'd him. 2. Revenge derives it ſelf from ſpight or malignity of mind: Where<g ref="char:EOLhyphen"/>as the puniſhment taken by the Magiſtrate, proceeds (or at leaſt ſhould do ſo from good will either to the perſon or to the publick, or both. In all puniſhments both ca<g ref="char:EOLhyphen"/>pital and others, from love to the Publick; In all leſs than capital, from love both to the Publick and the Per<g ref="char:EOLhyphen"/>ſon too. And therefore, 3. Revenge is ever accompa<g ref="char:EOLhyphen"/>nied with pleaſure and de<g ref="char:EOLhyphen"/>light in him that takes it; But Puniſhment is attended with grief and commiſerati<g ref="char:EOLhyphen"/>on
+<pb n="27" facs="tcp:38520:31"/> of mind in him that inflicts it. How often does the Ma<g ref="char:EOLhyphen"/>giſtrate weep when he pro<g ref="char:EOLhyphen"/>nounces Sentence againſt a Malefactor? and the bowels of a Parent yearn over that rebellious Son whom he cha<g ref="char:EOLhyphen"/>ſtiſes? And therefore, 4. Private Revenge and legal puniſhment are greatly dif<g ref="char:EOLhyphen"/>ferent in their Ends. For the End of Revenge is meer<g ref="char:EOLhyphen"/>ly to ſatisfie Anger, or to al<g ref="char:EOLhyphen"/>lay my own, by beholding anothers Grief: Whereas the End of all Puniſhments, that are not capital, is the Amend<g ref="char:EOLhyphen"/>ment of the Perſon puniſh'd; and of all Puniſhments what<g ref="char:EOLhyphen"/>ſoever, the Terrour of the Example that others may be afraid, and not tempted by
+<pb n="28" facs="tcp:38520:32"/> impunity to commit the ſame Offences; and the peace and ſecurity, the good Order and Government of publick Soci<g ref="char:EOLhyphen"/>eties.</p>
+            <p>By what has been ſaid, I think 'tis ſufficiently evident, that Puniſhment and Re<g ref="char:EOLhyphen"/>venge (in the common ſenſe of this word) ſo widely differ, that though the latter be for<g ref="char:EOLhyphen"/>bidden to the Magiſtrate, yet that will be no hindrance to the execution of his Office by inflicting the former. And though 'tis true, that the Magiſtrate is call'd <hi>a Revenger for wrath;</hi> Yet the <note place="margin">Rom. 13. 4.</note> word is there us'd (as 'tis alſo when applied to God) in a larger and more benign ſenſe, and not in its uſual
+<pb n="29" facs="tcp:38520:32"/> and worſt notion. For even the Magiſtrate who executes the Law upon others, in caſe he do it with Spite and Ran<g ref="char:EOLhyphen"/>cour, to vent his own Paſſi<g ref="char:EOLhyphen"/>ons, and to eaſe his Spleen, he thereby becomes himſelf, a breaker of the Law of Chriſt.</p>
+            <p>The ſumm is, To render <hi>evil</hi> to another, meerly be<g ref="char:EOLhyphen"/>cauſe he hath done evil to us; to take Pleaſure in ano<g ref="char:EOLhyphen"/>thers Pain; To think our ſelves more happy, becauſe we have made our Neigh<g ref="char:EOLhyphen"/>bour more miſerable, this is no more allow'd to the higheſt, than it is to the loweſt. Not the grea<g ref="char:EOLhyphen"/>teſt Prince upon Earth, is permitted in this ſort,
+<pb n="30" facs="tcp:38520:33"/> to <hi>recompenſe evil for evil.</hi> No,</p>
+            <p>4. <hi>Fourthly,</hi> Not to any man in the world. <hi>Recom<g ref="char:EOLhyphen"/>penſe to no man evil for evil. To no man,</hi> not to the moſt inveterate and implacable E<g ref="char:EOLhyphen"/>nemy; Not to a Schiſmatick or Heretick; Not to a <hi>Turk</hi> or <hi>Jew,</hi> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. Chryſoſt. in loc.</note> no nor to a Hea<g ref="char:EOLhyphen"/>then; Not to the moſt Irreligious or Atheiſtical wretch in the world: Not to any man of any Nation, of what Quali<g ref="char:EOLhyphen"/>ty, State, Opinion, or Reli<g ref="char:EOLhyphen"/>gion ſoever, may we thus <hi>recompenſe evil for evil.</hi>
+            </p>
+            <p>The reſult of what hath been delivered is this: That no man in the world may
+<pb n="31" facs="tcp:38520:33"/> repay to any man in the world, either in the ſame kind, or in another; either by his own hands, or by the hands of others, any manner of wrong or miſchief, meerly by way of retaliation or re<g ref="char:EOLhyphen"/>compenſe for the injury he has received from him. He may indeed defend his own Rights, he may ſeek the re<g ref="char:EOLhyphen"/>paration of ſuch wrongs as are weighty and valuable, if the party obnoxious be able to make it: And in caſe the injury be ſuch, (as if no a<g ref="char:EOLhyphen"/>mends be made for it) will redound to the damage of human Society, he not only may, but ought to proſecute the Offender, and bring him to legal puniſhment,
+<pb n="32" facs="tcp:38520:34"/> though no advantage accrue to himſelf thereby. But without reſpect to theſe, or ſuch like Ends, to create grief and miſery to another; that is, to do evil to my Neighbour, for no other reaſon, but becauſe he hath done ſo to me, is a thing ſo baſe and unbecoming a Man, that it ought not ſo much as to be named among Chriſtians.</p>
+            <p>And that it is ſo indeed, I ſhall now ſhew you by ſuch Arguments as will, I hope, be of force to con<g ref="char:EOLhyphen"/>vince you, how both unrea<g ref="char:EOLhyphen"/>ſonable and irreligious, how fooliſh and brutiſh, as well as ſinful this practice is; that you may be thereby wrought
+<pb n="33" facs="tcp:38520:34"/> to an utter averſation from, and abhorrency of it.</p>
+            <p>The Arguments being many and various, I ſhall for methods ſake, and to a<g ref="char:EOLhyphen"/>void confuſion, reduce them to ſeveral Heads. I ſhall</p>
+            <list>
+               <item>I. Shew you how repug<g ref="char:EOLhyphen"/>nant it is to the holy Religion we profeſs.</item>
+               <item>II. How impious in reſpect of God.</item>
+               <item>III. How hurtful to our ſelves.</item>
+               <item>IV. How unreaſonable e<g ref="char:EOLhyphen"/>ven in reſpect of our Neigh<g ref="char:EOLhyphen"/>bour who hath wrong'd us.</item>
+               <pb n="34" facs="tcp:38520:35"/>
+               <item> V. How deſtructive of publick Peace, how perni<g ref="char:EOLhyphen"/>cious to human Society.</item>
+            </list>
+            <p>For whether we conſider that Religion to which we owe all our hopes of Hap<g ref="char:EOLhyphen"/>pineſs; whether we conſider God, our Neighbour, or our Selves; whether we con<g ref="char:EOLhyphen"/>ſider our own private or the publick good, we ſhall not be far to ſeek for ſtore of ſuch Arguments, as may ſufficiently repreſent to us, how contrary it is to our Religion, how evil in it ſelf, how provoking to God, how hurtful to our ſelves, how prejudicial to our Neigh<g ref="char:EOLhyphen"/>bour, how oppoſite to the publick good, <hi>to recompenſe evil for evil.</hi>
+            </p>
+            <pb n="35" facs="tcp:38520:35"/>
+            <p> I. Nothing can be more plainly contrary to the na<g ref="char:EOLhyphen"/>ture, more inconſiſtent with the deſign of the Reli<g ref="char:EOLhyphen"/>gion we profeſs; which is ſo far from being troubleſom and vexatious, hurtful and revengeful; that 'tis on the contrary moſt <hi>peaceable, gen<g ref="char:EOLhyphen"/>tle,</hi> 
+               <note place="margin">Jam. 3. 17.</note> 
+               <hi>eaſie to be entreated, full of mercy and good fruits.</hi> More particularly.</p>
+            <p n="1">1. To render <hi>evil for evil,</hi> is utterly inconſiſtent, with thoſe gracious Qualities and Diſpoſitions of mind, which 'tis the main deſign of our Religion to plant and pro<g ref="char:EOLhyphen"/>mote in us; ſuch are <hi>Humi<g ref="char:EOLhyphen"/>lity,</hi> 
+               <note place="margin">Gal. 5. 22.</note> 
+               <hi>Meekneſs, Love, Joy, Peace, Long-ſuffering, Gentle<g ref="char:EOLhyphen"/>neſs,</hi>
+               <pb n="36" facs="tcp:38520:36"/> 
+               <hi>Goodneſs.</hi> Theſe are the Graces by which Chriſtians ought to be known, and di<g ref="char:EOLhyphen"/>ſtinguiſhed from other men, as by their proper Badge and Livery. And therefore S. <hi>Paul</hi> commands us (as we deſire to approve our ſelves <hi>the Elect of God, holy and belo<g ref="char:EOLhyphen"/>ved)</hi> that <hi>we put on bowels of</hi> 
+               <note place="margin">Col. 3. 12, 13, 14.</note> 
+               <hi>Compaſſion, Kindneſs, Humble<g ref="char:EOLhyphen"/>neſs of mind, Meekneſs, Long-ſuffering, Forbearing one another, and Forgiving one another, if any man have a quarrel againſt any. And that above,</hi> or over <hi>all theſe, we put on Charity, which is the bond of Perfectneſs.</hi> That is (by an <hi>Hebraiſm</hi> uſual in the writings of this Apoſtle) <hi>a moſt perfect bond,</hi> by which we ſhall be more cloſely ty'd to<g ref="char:EOLhyphen"/>gether,
+<pb n="37" facs="tcp:38520:36"/> and intirely made one, than by any other bond whatſoever. And S. <hi>Peter</hi> requires, that <hi>above all things,</hi> 
+               <note place="margin">1 Pet. 4. 8.</note> 
+               <hi>we have fervent Charity among our ſelves,</hi> and that for this reaſon, becauſe <hi>Charity will cover a multitude of Sins. A multitude</hi> not only of thoſe ſins which are committed a<g ref="char:EOLhyphen"/>gainſt God, but againſt our ſelves; and 'twill cover them from our own, as well as from other mens eyes, that we ſhall never ſee them, ſo as to requite them. And that an univerſal Charity ex<g ref="char:EOLhyphen"/>tended even to the moſt mercileſs Enemies, is the great Glory and Perfection in which Chriſtians ought to out-ſhine others, we learn
+<pb n="38" facs="tcp:38520:37"/> from our bleſſed Saviour's own mouth, who after he had commanded us to love our Enemies, and propounded the Example of God him<g ref="char:EOLhyphen"/>ſelf to move us thereunto, he concludes, <hi>Be ye therefore</hi> 
+               <note place="margin">Matt. 5. 48.</note> 
+               <hi>perfect, even as your Father which is in Heaven is per<g ref="char:EOLhyphen"/>fect.</hi>
+            </p>
+            <p>By all which (and much more which might be pro<g ref="char:EOLhyphen"/>duced to the ſame purpoſe) 'tis evident, that the Spirit and Temper, which the Go<g ref="char:EOLhyphen"/>ſpel of Chriſt is deſigned to work in us, is as oppoſite to that of Enmity and Re<g ref="char:EOLhyphen"/>venge, as Light to Darkneſs. For how can he be eaſily provok'd by the injuries of another, who is Meek, and
+<pb n="39" facs="tcp:38520:37"/> Gentle, and Patient and Long-ſuffering? How can he repay evil to his Neighbour; who notwithſtanding all the evil he hath ſuffered from him, is kindly affectioned toward him? How can he take Pleaſure in the Afflicti<g ref="char:EOLhyphen"/>ons of his Enemy, who hath a fellow feeling of his miſe<g ref="char:EOLhyphen"/>ries, as if they were his own? It cannot be, there is an utter inconſiſtency in the thing it ſelf; and therefore were all ſuch as profeſs themſelves Chriſtians, of ſuch a temper as their Religion requires, there could be no ſuch thing, as a thought of Revenge found among them. As will be further evident, becauſe,</p>
+            <p n="2">
+               <pb n="40" facs="tcp:38520:38"/> 2. Nothing can be more repugnant to the Preceptive part of our Religion. Should we take a particular view of thoſe practices, which are condemn'd by the Laws of Chriſt, we ſhould ſcarce find any that is more contrary to, that bids more defiance to his Commandments, than this does. For,</p>
+            <p>
+               <hi>Firſt,</hi> Nothing is more expreſly prohibited; and that not barely once in my Text, but the Prohibition is fre<g ref="char:EOLhyphen"/>quently repeated: <hi>Be ye all</hi> 
+               <note place="margin">1 Pet. 3. 8, 9.</note> 
+               <hi>of one mind,</hi> ſays <hi>S. Peter, having compaſſion one of another, be pitiful, be courteous; Not ren<g ref="char:EOLhyphen"/>dering evil for evil, or railing for railing.</hi> And S. <hi>Paul</hi> elſe<g ref="char:EOLhyphen"/>where
+<pb n="41" facs="tcp:38520:38"/> repeats the ſame Command, with a ſpecial charge prefix'd, to ingage us the more to the obſervance of it: <hi>See</hi> (or look to it) <hi>that none render evil for evil.</hi> 
+               <note place="margin">1 Theſſ. 5. 15.</note> The ſame Prohibition is al<g ref="char:EOLhyphen"/>ſo given by our Lord and Maſter: <hi>But I ſay unto you,</hi> 
+               <note place="margin">Matt. 5. 39.</note> 
+               <hi>that ye reſiſt not evil.</hi> Which ſhould rather be render'd, <hi>avenge not evil;</hi> it being di<g ref="char:EOLhyphen"/>rectly oppoſed to the Law of Retaliation before menti<g ref="char:EOLhyphen"/>on'd.</p>
+            <p>The truth is, if we con<g ref="char:EOLhyphen"/>ſult <hi>Moſes</hi> and the Prophets, we ſhall find, that God an<g ref="char:EOLhyphen"/>ciently forbad this, even to the <hi>Jews,</hi> with reſpect to thoſe perſons who were of their own Nation and Religion,
+<pb n="42" facs="tcp:38520:39"/> 
+               <hi>Thou ſhalt not avenge, no nor ſo</hi> 
+               <note place="margin">Levit. 19. 18.</note> 
+               <hi>much as bear any grudge againſt the Children of thy People.</hi> Which we find afterward re<g ref="char:EOLhyphen"/>peated by <hi>Solomon: Say not</hi> 
+               <note place="margin">Prov. 20. 22.</note> 
+               <hi>thou, I will recompenſe evil;</hi> and again, <hi>Say not I will do to</hi> 
+               <note place="margin">Prov. 24. 29.</note> 
+               <hi>him, as he hath done to me: I will render to the man according to his work.</hi> And though in caſe the injur'd party requi<g ref="char:EOLhyphen"/>red it, the Magiſtrate was bound by the Law of God, to render <hi>an eye for an eye, and</hi> 
+               <note place="margin">Exod. 21. 23, 24, 25.</note> 
+               <hi>a tooth for a tooth;</hi> Yet 'tis manifeſt by the Texts before quoted, that God did not approve of this unchari<g ref="char:EOLhyphen"/>table temper, though he was to give ſome indulgence to it. And if God did not allow this in a <hi>Jew,</hi> can we
+<pb n="43" facs="tcp:38520:39"/> think that he doth not much more condemn it in Chriſti<g ref="char:EOLhyphen"/>ans? who have many more, and thoſe much ſtronger mo<g ref="char:EOLhyphen"/>tives and obligations to Cha<g ref="char:EOLhyphen"/>rity and Forgiveneſs, than the <hi>Jews</hi> had. For,</p>
+            <p>
+               <hi>Secondly,</hi> So far muſt he be from <hi>rendering evil for evil,</hi> that on the contrary, he muſt return good for evil. So the Apo<g ref="char:EOLhyphen"/>ſtle commands in the words before my Text; <hi>Bleſs them</hi> 
+               <note place="margin">Rom. 12. 14.</note> 
+               <hi>that perſecute you.</hi> And to ſhew the great weight and neceſſity of this Duty, he a<g ref="char:EOLhyphen"/>gain inculcates it, and ex<g ref="char:EOLhyphen"/>preſly forbids the contrary; <hi>bleſs and curſe not.</hi> 
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Chryſoſt. ad Rom. Hom. 22.</note>
+               <pb n="44" facs="tcp:38520:40"/> not, as S. <hi>Chryſoſtom</hi> obſerves, do not remember injuries, neither avenge them; but he requires that which is much more than theſe, Not to avenge is the part of a Philoſopher; but to pray that they may be happy, who do what they can to make us miſerable, is be<g ref="char:EOLhyphen"/>coming an Angel. And no leſs than this, does our Ma<g ref="char:EOLhyphen"/>ſter expect from all his Diſ<g ref="char:EOLhyphen"/>ciples; for he himſelf not only counſels, but ſtrictly commands us, <hi>To love our</hi> 
+               <note place="margin">Matt. 5. 44.</note> 
+               <hi>enemies, to bleſs them that curſe us, to do good to them that hate us, and to pray for them that deſpitefully uſe us, and perſecute us.</hi> He ſays not <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. Chryſoſt. in loc.</note>, do not hate, but love; do
+<pb n="45" facs="tcp:38520:40"/> not hurt, but do good. And to quicken us to obe<g ref="char:EOLhyphen"/>dience to this Command, he hath more effectually taught us the ſame leſſon by his own Example; in not only forgiving his mor<g ref="char:EOLhyphen"/>tal and moſt malicious E<g ref="char:EOLhyphen"/>nemies, but praying to his Father to forgive them too.</p>
+            <p>And this indeed is not more, than what even the <hi>Jews,</hi> (how ill-natured, and hard hearted ſoever) were in a great meaſure obliged to, toward thoſe enemies at leaſt, who were of their own Nation and Profeſ<g ref="char:EOLhyphen"/>ſion. For God expreſly commanded them: <hi>If thou</hi> 
+               <note place="margin">Exod. 23. 4, 5.</note>
+               <pb n="46" facs="tcp:38520:41"/> 
+               <hi>meet thine Enemies Oxe or his Aſs going aſtray, thou ſhalt ſurely bring it back to him a<g ref="char:EOLhyphen"/>gain; if thou ſee the Aſs of him that hateth thee, lying un<g ref="char:EOLhyphen"/>der his burden, and wouldſt forbear to help him, thou ſhalt ſurely help him.</hi> Nor were they only obliged to ſhew kindneſs to their Enemies Beaſts, but to their Perſons, in relieving their neceſſi<g ref="char:EOLhyphen"/>ties, and ſupplying their wants. For <hi>if thine Enemy hunger, give him bread to eat; and if he be thirſty, give him water to drink:</hi> was given by <hi>Solomon</hi> in command to the <hi>Jews,</hi> a thouſand years before our Saviours mani<g ref="char:EOLhyphen"/>feſtation in the fleſh. And
+<pb n="47" facs="tcp:38520:41"/> (as I ſhall afterward have occaſion to ſhew) was high<g ref="char:EOLhyphen"/>ly commended by many Heathens. They therefore by the way are greatly mi<g ref="char:EOLhyphen"/>ſtaken, who tell us, that to love, and to do good to our Enemies, is ſo peculiar to Chriſtianity, that it was al<g ref="char:EOLhyphen"/>together unknown to the World, before Chriſt taught it to his Diſciples.</p>
+            <p>We have ſeen with what ſtrong bonds our Hands, and our Tongues, and our Hearts too are tied up, ei<g ref="char:EOLhyphen"/>ther from doing, or ſpeak<g ref="char:EOLhyphen"/>ing, or ſo much as wiſhing any evil to any man, by way of return for the evil he hath done to us; ſince
+<pb n="48" facs="tcp:38520:42"/> this is not only frequently and earneſtly forbidden by the Laws of our Religion, but rather than avenge a former, we are command<g ref="char:EOLhyphen"/>ed to expoſe our ſelves to a ſucceeding Injury; Yea, to be ſo far from repaying evil with evil, that on the contrary, we recompenſe evil with good.</p>
+            <p>Unleſs therefore we re<g ref="char:EOLhyphen"/>ſolve to go and do like<g ref="char:EOLhyphen"/>wiſe, let us no longer think our ſelves Chriſti<g ref="char:EOLhyphen"/>ans. <hi>Why call ye me Lord,</hi> 
+               <note place="margin">Luk. 6. 46.</note> 
+               <hi>Lord,</hi> ſaith our Saviour, <hi>and do not the things which I ſay?</hi> Chriſt will own none for his Servants, but thoſe who obey his Commands; and
+<pb n="49" facs="tcp:38520:42"/> he wonders that others ſhould be ſo impudent, as to challenge him for their Maſter; for 'tis certain, that <hi>his Servants we are to whom</hi> 
+               <note place="margin">Rom. 6. 16.</note> 
+               <hi>we obey.</hi> Let us not then think well of our ſelves, for being Chriſtians in name, unleſs by our works, we ſhew our ſelves Chri<g ref="char:EOLhyphen"/>ſtians indeed; for ſo far are we from being the bet<g ref="char:EOLhyphen"/>ter for our holy Profeſſion, that we are in truth much the worſe, in caſe our pra<g ref="char:EOLhyphen"/>ctice be a contradiction to it. As therefore we de<g ref="char:EOLhyphen"/>ſire to approve our ſelves, what we profeſs to be, let us be ſo far from being o<g ref="char:EOLhyphen"/>vercome with evil, that
+<pb n="50" facs="tcp:38520:43"/> we overcome evil with good.</p>
+            <p>But if the bare Com<g ref="char:EOLhyphen"/>mands of Chriſt ſhould be ſlighted by us, yet methinks the Rewards promiſed to thoſe who obey them, and the Puniſhments threatened to thoſe who neglect them, ſhould be a powerful and prevailing Motive. And therefore,</p>
+            <p>
+               <hi>Thirdly,</hi> Conſider, what great Rewards our Religion promiſes to thoſe who obſerve theſe Commandments, and what dreadful Puniſhments it threatens to thoſe who deſpiſe them. For <hi>if we</hi> 
+               <note place="margin">Matt. 6. 4.</note> 
+               <hi>forgive men their treſpaſſes,</hi>
+               <pb n="51" facs="tcp:38520:43"/> 
+               <hi>our heavenly Father will alſo forgive us.</hi> A Promiſe com<g ref="char:EOLhyphen"/>prehenſive of all the hap<g ref="char:EOLhyphen"/>pineſs our hearts can wiſh; for <hi>bleſſed is he whoſe iniqui<g ref="char:EOLhyphen"/>ties</hi> 
+               <note place="margin">Pſal. 32. 1, 2.</note> 
+               <hi>are forgiven, whoſe ſins are covered: bleſſed is the man to whom the Lord imputeth not iniquity.</hi> And this Bleſſed<g ref="char:EOLhyphen"/>neſs, (ſaith the <hi>Amen,</hi> the true and faithful Witneſs) ſhall be the portion of thoſe, who heartily forgive the Offences of their Brethren. And for our greater aſſu<g ref="char:EOLhyphen"/>rance he repeats it again. <hi>When ye ſtand praying, forgive,</hi> 
+               <note place="margin">Mar. 11. 25.</note> 
+               <hi>if ye have ought againſt any man, that your Father alſo which is in Heaven may forgive you your treſpaſſes.</hi>
+            </p>
+            <pb n="52" facs="tcp:38520:44"/>
+            <p> Not that we are ſo to underſtand this, as if to for<g ref="char:EOLhyphen"/>give our Enemies, without the concurrence of other Graces and Duties, were alone ſufficient to entitle a man to the forgiveneſs of his ſins (as ſome men may perhaps flatter themſelves, and thence conclude that they are ſafe, in caſe they do but forgive their Ene<g ref="char:EOLhyphen"/>mies, whatſoever other ſins they indulge to). No; how acceptable ſoever this is to God, we may not expect that it ſhould be of any avail in order to our everlaſting happineſs, unleſs it proceed from thoſe Chriſtian princi<g ref="char:EOLhyphen"/>ples, which will ingage a
+<pb n="53" facs="tcp:38520:44"/> man to the ſincere perfor<g ref="char:EOLhyphen"/>mance of all other Duties, and produce an entire Obe<g ref="char:EOLhyphen"/>dience to God's Com<g ref="char:EOLhyphen"/>mandments. That there<g ref="char:EOLhyphen"/>fore the Reward is expreſly annexed to this Grace, 'tis not to exclude others; but to ſhew the excellency, and the abſolute neceſſity of this, how highly pleaſing it is to God, and what great influence it hath in order to the commending us to his Favour and Accep<g ref="char:EOLhyphen"/>tance.</p>
+            <p>And as no leſs than Happineſs is the Reward promiſed to thoſe who o<g ref="char:EOLhyphen"/>bey theſe Commandments. So as great is the Puniſh<g ref="char:EOLhyphen"/>ment
+<pb n="54" facs="tcp:38520:45"/> threatned to thoſe that deſpiſe them. <hi>For if</hi> 
+               <note place="margin">Matt. 6. 15. Mar. 11. 26.</note> 
+               <hi>we forgive not men their Treſ<g ref="char:EOLhyphen"/>paſſes, neither will our Father which is in Heaven forgive our Treſpaſſes.</hi> Yea, <hi>he ſhall</hi> 
+               <note place="margin">Jam. 2. 13.</note> 
+               <hi>have Judgement without Mer<g ref="char:EOLhyphen"/>cy, who ſheweth no mercy.</hi> What meaſure we mete to others, God will at length mete it to us again. If we forgive our Neighbour, he will forgive us. If we ſhew mercy, we ſhall ob<g ref="char:EOLhyphen"/>tain mercy. If we will not forgive, neither will God: If we recompenſe to others their Offences a<g ref="char:EOLhyphen"/>gainſt us, he will at laſt recompenſe ours againſt himſelf. And how inex<g ref="char:EOLhyphen"/>preſſibly
+<pb n="55" facs="tcp:38520:45"/> miſerable muſt that man be, with whom God will deal according to the merits of his Sins?</p>
+            <p>We have ſeen, that no<g ref="char:EOLhyphen"/>thing can be more oppoſite to the nature and tendency of our Religion, than to repay injuries with injuries: That 'tis a manifeſt con<g ref="char:EOLhyphen"/>tradiction to thoſe Graces, which 'tis the chief deſign of our Religion to plant and promote in us; That it bids open defiance to many of its expreſs and moſt peremptory precepts; that 'tis threatened not on<g ref="char:EOLhyphen"/>ly with temporal, but e<g ref="char:EOLhyphen"/>ternal Puniſhments; and that the greateſt Rewards
+<pb n="56" facs="tcp:38520:46"/> are promiſed to the con<g ref="char:EOLhyphen"/>trary practice. Is it not a ſtrange thing, that per<g ref="char:EOLhyphen"/>ſons who are of a ſpiteful and revengeful temper, who are impatient of the leaſt neglect, who will not paſs by the moſt trifling Affront, who cannot be ſo much as civil, unleſs it be to thoſe who are ſo to them; who reſolve not to die in their Enemies debt, but to pay him home in his own coyn; is it not ſtrange, I ſay, that ſuch men as theſe, ſhould take themſelves for Chriſtians? But let them reckon them<g ref="char:EOLhyphen"/>ſelves ſuch as much as they pleaſe; while by their
+<pb n="57" facs="tcp:38520:46"/> actions they plainly con<g ref="char:EOLhyphen"/>tradict the Religion they pretend to, they do there<g ref="char:EOLhyphen"/>by but proclaim their Hypo<g ref="char:EOLhyphen"/>criſie.</p>
+            <p>Nor ſhall we wonder that our Religion hath put in ſo many Prohibiti<g ref="char:EOLhyphen"/>ons againſt this vice, and armed us with ſo many weapons to oppoſe and vanquiſh it; if we ſeriouſ<g ref="char:EOLhyphen"/>ly conſider, what Impiety it involves toward God, how hurtful it is to our ſelves, how unreaſonable in reſpect of our Neighbour who hath wronged us, how deſtructive of humane So<g ref="char:EOLhyphen"/>ciety; and conſequently how much it is condemned
+<pb n="58" facs="tcp:38520:47"/> even by that Law which is written in every one of our hearts: which I now pro<g ref="char:EOLhyphen"/>ceed to diſcourſe of in the order propos'd.</p>
+            <p>II. He that avenges him<g ref="char:EOLhyphen"/>ſelf on him that injures him, is highly impious toward God, and that upon two ac<g ref="char:EOLhyphen"/>counts eſpecially.</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe he ſacrile<g ref="char:EOLhyphen"/>giouſly uſurps God's pecu<g ref="char:EOLhyphen"/>liar Right. This Argument we find us'd by the Apo<g ref="char:EOLhyphen"/>ſtle in the next Verſe ſave one to my Text. <hi>Dearly</hi> 
+               <note place="margin">Rom. 12. 19.</note> 
+               <hi>beloved,</hi> ſaith he, <hi>avenge not your ſelves, but rather give place unto wrath.</hi> The wrath
+<pb n="59" facs="tcp:38520:47"/> here ſpoken of, may be ei<g ref="char:EOLhyphen"/>ther God's wrath, or our own, or that of our Ad<g ref="char:EOLhyphen"/>verſary. If we underſtand it of the wrath of God, the meaning is; Do not antici<g ref="char:EOLhyphen"/>pate the Vengeance of God, but leave it to him to puniſh thoſe that harm you. If of our own wrath, the ſenſe is; Suffer it not preſently to break out into Revenge, but give it time to cool and expire, by a metaphor taken from mat<g ref="char:EOLhyphen"/>ter ſuddenly inflamed and rarefied, which if pent up into a narrow compaſs, conſumes or ſhatters in pie<g ref="char:EOLhyphen"/>ces all that ſtands in its way; but give it room,
+<pb n="60" facs="tcp:38520:48"/> and it ſpends it ſelf, and is extinguiſh'd without doing any miſchief. If we refer it to the wrath of our E<g ref="char:EOLhyphen"/>nemy, the meaning is; Do not violently reſiſt it, but decline and flee from it; Or if that cannot be, bear it patiently, and do not re<g ref="char:EOLhyphen"/>turn wrath for wrath. And why muſt we thus give place to wrath? the rea<g ref="char:EOLhyphen"/>ſon follows; becauſe it is written, <hi>Vengeance is mine, I will repay, ſaith the Lord.</hi> This we find written <hi>Deut.</hi> 32. 35. where God ſaith of himſelf, <hi>To me belongeth Vengeance and Recompence.</hi> And therefore the Pſalmiſt thus addreſſes to God, <hi>O</hi> 
+               <note place="margin">Pſal. 94. 1.</note>
+               <pb n="61" facs="tcp:38520:48"/> 
+               <hi>Lord God to whom Vengeance belongeth, O God to whom Vengeance belongeth.</hi> So pro<g ref="char:EOLhyphen"/>per is Vengeance to God, that it belongs to none be<g ref="char:EOLhyphen"/>ſides him, except only thoſe, to whom he hath given ſpecial licence to ex<g ref="char:EOLhyphen"/>ecute it; that is, to pub<g ref="char:EOLhyphen"/>lick Magiſtrates, and Supe<g ref="char:EOLhyphen"/>riors in Authority, who by virtue of their Office, are alſo Avengers: but what is inflicted by them, is to be accounted no other than the Vengeance of God, be<g ref="char:EOLhyphen"/>cauſe they as God's Mini<g ref="char:EOLhyphen"/>ſters are commiſſioned by him. Whoſoever therefore arrogates it to himſelf with<g ref="char:EOLhyphen"/>out authority deriv'd from
+<pb n="62" facs="tcp:38520:49"/> God, he invades his Prero<g ref="char:EOLhyphen"/>gative, and ſets himſelf up in his room; he takes God's work out of his hand, as if he could do it better himſelf. Which how high<g ref="char:EOLhyphen"/>ly provoking it muſt needs be to a jealous God, who will not give his Glory to another, we may eaſily ima<g ref="char:EOLhyphen"/>gine.</p>
+            <p>But that we may not entertain any low and un<g ref="char:EOLhyphen"/>worthy conceits of God, I add by way of Caution; that Vengeance as attribu<g ref="char:EOLhyphen"/>ted to him, is to be taken in a benign and favourable ſenſe, for an act of diſtri<g ref="char:EOLhyphen"/>butive Juſtice, by which, as the Supreme and righteous
+<pb n="63" facs="tcp:38520:49"/> Governour and Judge of the World; he rights thoſe that are wrong'd, and ren<g ref="char:EOLhyphen"/>ders puniſhment to evil<g ref="char:EOLhyphen"/>doers, according to the me<g ref="char:EOLhyphen"/>rit of their works; abſtract<g ref="char:EOLhyphen"/>ing from all thoſe Pertur<g ref="char:EOLhyphen"/>bations and imperfections, from which it proceeds, and with which it is at<g ref="char:EOLhyphen"/>tended in us, by reaſon of which, we are altogether unfit to be our own Aven<g ref="char:EOLhyphen"/>gers.</p>
+            <p>
+               <hi>Secondly,</hi> By avenging our ſelves, we are not only un<g ref="char:EOLhyphen"/>juſt to God, in uſurping his Rights; but guilty al<g ref="char:EOLhyphen"/>ſo of the moſt horrid In<g ref="char:EOLhyphen"/>gratitude, in not rendering
+<pb n="64" facs="tcp:38520:50"/> to him according to the Benefits we have received from him. How merciful is God to us? how patient and long-ſuffering? how many and great Indignities, do we daily offer to him? how little or nothing are the greateſt Injuries, that the moſt potent and imbit<g ref="char:EOLhyphen"/>ter'd Enemy can do to us, in compariſon of our Offen<g ref="char:EOLhyphen"/>ces againſt him, <hi>who is the bleſſed and only Potentate, the King of kings, and Lord of lords?</hi> Should he be ex<g ref="char:EOLhyphen"/>tream to mark our ſins a<g ref="char:EOLhyphen"/>gainſt himſelf; nay ſhould he recompenſe to us the Iniquities but of one day, the beſt of us would not be
+<pb n="65" facs="tcp:38520:50"/> able to abide, but ſhould be cruſh'd into the bottom<g ref="char:EOLhyphen"/>leſs Pit, under the unſup<g ref="char:EOLhyphen"/>portable weight of his Ven<g ref="char:EOLhyphen"/>geance. Yea, ſo far is he from puniſhing us after our ſins, and rewarding us ac<g ref="char:EOLhyphen"/>cording to our Iniquities, that he ſhowers down his bleſſings upon our heads, and daily loads us with his Bene<g ref="char:EOLhyphen"/>fits.</p>
+            <p>And what doth he ex<g ref="char:EOLhyphen"/>pect from us by way of grateful Retribution? Why, that we ſhould be alſo kind and merciful to our Fellow-Servants, as he is to us; that we ſhould forgive their little offences againſt our ſelves, as he forgives our
+<pb n="66" facs="tcp:38520:51"/> great ones againſt himſelf. That God expects this, our Saviour hath plainly taught us in the parable of the King, who call'd his Ser<g ref="char:EOLhyphen"/>vants to an account for what they owed him: For, what ſays the King to that Servant to whom he had forgiven ten thouſand ta<g ref="char:EOLhyphen"/>lents, when he was ſo un<g ref="char:EOLhyphen"/>merciful to his Fellow-Servant, that he would not forgive him an hundred pence? <hi>Thou wicked Servant,</hi> 
+               <note place="margin">Matt. 18. 32, 33.</note> 
+               <hi>I forgave thee all that debt, becauſe thou deſiredſt me; ſhouldſt not thou alſo have had compaſ<g ref="char:EOLhyphen"/>ſion on thy Fellow-Servant even as I had pity on thee?</hi> Had God required ſome great
+<pb n="67" facs="tcp:38520:51"/> matter of us, ſhould we not readily have done it? ſince all that we can do, yea all that we can ſuffer too, falls incomparably ſhort of what we owe him; When there<g ref="char:EOLhyphen"/>fore he requires us in token of our Thankfulneſs, not to avenge our ſelves upon, but to forgive our injurious Brother (a thing ſo ſmall, ſo eaſie, ſo reaſonable, ſo infinitely below what he might juſtly exact from us) what Monſters of Ingrati<g ref="char:EOLhyphen"/>tude muſt we needs be, if we ſtick at this?</p>
+            <p>We have heard how im<g ref="char:EOLhyphen"/>pious this practice is in re<g ref="char:EOLhyphen"/>ſpect of God; how unjuſt in aſſuming to our ſelves,
+<pb n="68" facs="tcp:38520:52"/> what is proper to God on<g ref="char:EOLhyphen"/>ly; how ungrateful, in re<g ref="char:EOLhyphen"/>fuſing to deny our ſelves ſo little by way of return, for thoſe innumerable and ineſtimable Benefits, he hath vouchſafed to us: If therefore we have any love for God, yea, if we have any reſpect or regard to him, ſhall we not abandon and abhor it for the future? and inſtead of heaping coals of Vengeance upon our Ene<g ref="char:EOLhyphen"/>my's head to conſume him, heap only coals of love, which may ſoften and melt him.</p>
+            <p>III. But in caſe we ſhould have no regard to
+<pb n="69" facs="tcp:38520:52"/> God, yet 'twill be ſtrange if we have no love for our ſelves. I proceed therefore in the Third place to ſhew you, how great an evil it is to our ſelves, <hi>to recompenſe evil for evil to any man.</hi> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Chryſoſt. in Matth. c. 18. Hom. 62.</note> For though we deſign to hurt our Enemies only, yet we are therein groſly miſtaken, ſince in hurting of them, we really do ſo much more miſchief to our ſelves, that our moſt invenomed and ſpiteful Adverſary can<g ref="char:EOLhyphen"/>not wiſh that worſe may be<g ref="char:EOLhyphen"/>fall us. For,</p>
+            <pb n="70" facs="tcp:38520:53"/>
+            <p> 
+               <hi>Firſt,</hi> He that repays an Injury, does the very ſame evil, with him who firſt in<g ref="char:EOLhyphen"/>flicted it; and by conſe<g ref="char:EOLhyphen"/>quence involves himſelf in the ſame guilt, and makes himſelf as bad a man as he. The main thing in which they differ, is, that the one goes before the other; He that begins the wrong, leads the way, and is firſt in the tranſgreſſion; he that avenges it, follows after, and does the very ſame thing that he did before him.</p>
+            <p>That which he is wont to plead for the excuſing or leſſening of his crime is
+<pb n="71" facs="tcp:38520:53"/> this; that he is provoked to it by the wrong another hath already cauſeleſly done to him: Whereas this is in truth, ſo far from excu<g ref="char:EOLhyphen"/>ſing upon ſome accounts, that it rather aggravates his ſin, and renders him ſo much the more inexcuſa<g ref="char:EOLhyphen"/>ble. For what's the reaſon, you are ſo angry with your Neighbour? Is it not be<g ref="char:EOLhyphen"/>cauſe you judge he hath done that which he ought not? becauſe he hath done that which is unbecoming a juſt and a good man to do? And will it think you, excuſe you, that you do that which your Neigh<g ref="char:EOLhyphen"/>bour hath done, becauſe it
+<pb n="72" facs="tcp:38520:54"/> is that which you believe he ought not to have done? Can you think your ſelves e're the more innocent, in imitating another in thoſe actions, which you your ſelves condemn as vile and unworthy? None can be ſo abſurd, ſo deſ<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>te of common ſenſe, as to imagine it.</p>
+            <p>This leſſon we may learn from many Heathens. One of them tells us, <q>That we ought to do juſtice <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Hi<g ref="char:EOLhyphen"/>eroc. in Aur. Pythag. Car. p. 69.</note> not only to thoſe who are juſt to us, but to thoſe who injure us; leſt by
+<pb n="73" facs="tcp:38520:54"/> repaying the wrong they do, we make our ſelves equally bad with them.</q> Another ſays, <q>That if it be <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Max. Tyr. Diſſert. 2.</note> evil to wrong a<g ref="char:EOLhyphen"/>nother, 'tis a<g ref="char:EOLhyphen"/>like evil to re<g ref="char:EOLhyphen"/>taliate the wrong; that is, he who firſt does the in<g ref="char:EOLhyphen"/>jury, does that which is bad, he that returns it doth nothing bet<g ref="char:EOLhyphen"/>ter.</q> A third <note place="margin">Plato in Crit.</note> concludes, <q>That ſince it is ſimply evil to do an injury, therefore he that hath ſuffer'd one, muſt not avenge it, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="74" facs="tcp:38520:55"/> he of neceſſity does an injury who retaliates it.</q> Yea ſome of the Phi<g ref="char:EOLhyphen"/>loſophers have gone ſo high, as to affirm, that if there be any difference be<g ref="char:EOLhyphen"/>tween the one and the o<g ref="char:EOLhyphen"/>ther, he that revenges the injury is of the two the more highly criminal. I ſhall be bold to affirm, ſayes <hi>Maxi<g ref="char:EOLhyphen"/>mus</hi> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Max. Tyr. Diſſert. 2.</note> 
+               <hi>Tyrius,</hi> 
+               <q>That if there be an exceſs of one in<g ref="char:EOLhyphen"/>jury above ano<g ref="char:EOLhyphen"/>ther, he that revenges, is more unjuſt, than he who was beforehand with him in doing the wrong.</q> And <hi>Seneca</hi> ſays,
+<pb n="75" facs="tcp:38520:55"/>
+               <q>I ſhall not doubt to averr, that he is more wicked that a<g ref="char:EOLhyphen"/>venges, <note place="margin">
+                     <hi>Non dubitabo dicere, ma<g ref="char:EOLhyphen"/>gis improbum eſſe eum, qui illatam ulciſcitur, quam qui infert injuriam.</hi> Sen.</note> than he who began the injury.</q> One rea<g ref="char:EOLhyphen"/>ſon of which is manifeſt; becauſe he of<g ref="char:EOLhyphen"/>fers violence to his own Conſcience, before he can do ſo to his injurious Bro<g ref="char:EOLhyphen"/>ther, by doing the very ſame evil himſelf, which he before condemn'd in him. Conſcience certainly cannot but tell him, that 'tis as a great ſin in him to wrong another, as 'tis in another to wrong him; that he is as much bound not to treſpaſs upon his Neigh<g ref="char:EOLhyphen"/>bours
+<pb n="76" facs="tcp:38520:56"/> Rights, as his Neigh<g ref="char:EOLhyphen"/>bour is bound not to treſ<g ref="char:EOLhyphen"/>paſs upon his: When there<g ref="char:EOLhyphen"/>fore either by words or ac<g ref="char:EOLhyphen"/>tions, he returns that evil to his Neighbour, which he before condemn'd his Neigh<g ref="char:EOLhyphen"/>bour for doing to him, he muſt of neceſſity controll the dictates of his own Conſcience, and be ſelf<g ref="char:EOLhyphen"/>condemn'd. And what an intolerable wrong this is to himſelf (however inſen<g ref="char:EOLhyphen"/>ſible he may be of it at preſent) he will come to underſtand, when his Con<g ref="char:EOLhyphen"/>ſcience which is now de<g ref="char:EOLhyphen"/>bauch'd by falſe and fooliſh principles, and miſerably inſlav'd to his Paſſions and
+<pb n="77" facs="tcp:38520:56"/> Luſts, ſhall once come to be diſabus'd and ſet at li<g ref="char:EOLhyphen"/>berty; How will it then accuſe and upbraid and con<g ref="char:EOLhyphen"/>demn him? what Venge<g ref="char:EOLhyphen"/>ance will it then take, for all thoſe rude indignities he hath offer'd to it?</p>
+            <p>
+               <hi>Secondly,</hi> By retorting of wrongs, we loſe many great and unvaluable Benefits, which by the patient indu<g ref="char:EOLhyphen"/>rance of them, we ſhould receive by the wrongs them<g ref="char:EOLhyphen"/>ſelves. <q>As thoſe Ani<g ref="char:EOLhyphen"/>mals, <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, &amp;c. Plut. de capiend. ab Hoſt. utilitat.</note> ſays <hi>Plutarch,</hi> which are moſt healthy, and of
+<pb n="78" facs="tcp:38520:57"/> a ſtrong ſtomach, digeſt Serpents and Scorpions; and ſome there are which turn Stones and Shells in<g ref="char:EOLhyphen"/>to nouriſhment; whereas thoſe that are weak and diſeas'd, do nauſeate even Bread and Wine: So fools corrupt and abuſe Friend<g ref="char:EOLhyphen"/>ſhip, whereas thoſe that are wiſe know how to make a good uſe of En<g ref="char:EOLhyphen"/>mity, and to turn it to their own advantage.</q> 'Tis certain, there is no in<g ref="char:EOLhyphen"/>jury ſo bad, but if we are not wanting to our ſelves, we may improve it to our great gain. Your Enemy perhaps has a ſpiteful eye upon you, watches narrow<g ref="char:EOLhyphen"/>ly
+<pb n="79" facs="tcp:38520:57"/> for your halting, puts a bad conſtruction upon your innocent words and actions, catches at every little fault he obſerves in you, and magnifies every mote into a beam: What ſhould you now do? I will tell you, or rather let a Heathen tell you (I mean <hi>Plutarch).</hi> 
+               <q>Inſtead of doing ſo to him again, be <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, &amp;c. Plut. de cap. ab Hoſt. util.</note> more cautious and circumſpect, keep a ſtricter watch over your your ſelf, neither ſpeak nor do any thing raſhly and inconſiderately, amend whatſoever hath been a<g ref="char:EOLhyphen"/>miſs,
+<pb n="80" facs="tcp:38520:58"/> endeavour to out<g ref="char:EOLhyphen"/>do him in whatſoever is praiſe-worthy, be to him an example in Juſtice and Goodneſs, in thy Words irreproveable, in thy Ac<g ref="char:EOLhyphen"/>tions pure, <hi>&amp;c.</hi> By this means, you will extract good out of evil, and make that which was deſign'd for your Diſeaſe, to become a ſovereign Me<g ref="char:EOLhyphen"/>dicine; You will out<g ref="char:EOLhyphen"/>wit and defeat your Ad<g ref="char:EOLhyphen"/>verſary, and make him ſore againſt his will to become your Friend.</q> And therefore <hi>Diogenes,</hi> 
+               <note place="margin">Plut. ibid.</note> when one asked him, by what means he might re<g ref="char:EOLhyphen"/>venge himſelf on his Ene<g ref="char:EOLhyphen"/>my;
+<pb n="81" facs="tcp:38520:58"/> Anſwer'd (more like a Chriſtian than a Heathen) <q>by being thy ſelf a virtuous and good man.</q>
+            </p>
+            <p>Beſides, there is no inju<g ref="char:EOLhyphen"/>ry you receive, but as it is deſign'd by God, ſo it is apt of it ſelf, to promote and exalt thoſe Graces, which are the Strength and Orna<g ref="char:EOLhyphen"/>ment, the Riches and Glo<g ref="char:EOLhyphen"/>ry of a Chriſtian; ſuch I mean, as <hi>Charity, Humility, Meekneſs, Gentleneſs, Patience, Long-ſuffering,</hi> and the like. Theſe are all exercis'd by him who calmly ſuffers, and does not proudly throw back the injury; and by exer<g ref="char:EOLhyphen"/>ciſe they are ſtrengthen<g ref="char:EOLhyphen"/>ed and brighten'd, made
+<pb n="82" facs="tcp:38520:59"/> more vigorous and illuſtri<g ref="char:EOLhyphen"/>ous.</p>
+            <p>And by improving in theſe Graces, we are ren<g ref="char:EOLhyphen"/>der'd more like to the bleſſed Jeſus, who in the practice of theſe eſpecially, hath propoſed himſelf as a Pattern to us. Yea, we are made conformable to God over all bleſſed for ever; who glories chiefly in this, That <hi>he is the Lord God, merciful</hi> 
+               <note place="margin">Exod. 34. 6, 7.</note> 
+               <hi>and gracious, long-ſuffering and abundant in goodneſs, keeping mercy for thouſands, forgiving iniquity, tranſgreſſion and ſin.</hi> And what ſhould we more ambitiouſly affect, than to reſemble the moſt glorious and infinitely bleſſed Be<g ref="char:EOLhyphen"/>ing?
+<pb n="83" facs="tcp:38520:59"/> Eſpecially when we conſider, that as we become more like him in Holineſs here, ſo we ſhall be alſo advanc'd to a greater like<g ref="char:EOLhyphen"/>neſs to him in Glory here<g ref="char:EOLhyphen"/>after: for by how much the greater the injuries are, which for his ſake we meekly ſuſtain; <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Chryſoſt. ad Rom. Hom. 22.</note> by ſo much the greater ſhall be our Reward in Heaven, and the more glo<g ref="char:EOLhyphen"/>rious our Crown. In brief, ſo many, and ſo great are the Spiritual advantages for which we ſtand indebted to our Enemies, that Saint <hi>Chryſoſtome</hi> ſpeaks of it as a matter of admiration.
+<pb n="84" facs="tcp:38520:60"/>
+               <q>See, ſays he, what great Gains accrew to thee by meekly <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, &amp;c. Chryſoſt. in Matth. c. 18. Hom. 62.</note> bearing of in<g ref="char:EOLhyphen"/>juries. <hi>Firſt,</hi> And which is in<g ref="char:EOLhyphen"/>deed the great<g ref="char:EOLhyphen"/>eſt, the Remiſ<g ref="char:EOLhyphen"/>ſion of ſins. <hi>Se<g ref="char:EOLhyphen"/>condly,</hi> Fortitude, Patience and Perſeve<g ref="char:EOLhyphen"/>rance. <hi>Thirdly,</hi> Meek<g ref="char:EOLhyphen"/>neſs, Gentleneſs and Hu<g ref="char:EOLhyphen"/>manity; For he that knows not how to be an<g ref="char:EOLhyphen"/>gry with thoſe who grieve and afflict him, much more will he be complai<g ref="char:EOLhyphen"/>ſant to his Friends. <hi>Fourth<g ref="char:EOLhyphen"/>ly,</hi> An uninterrupted calm and tranquillity of mind,
+<pb n="85" facs="tcp:38520:60"/> to which nothing is equal, <hi>&amp;c.</hi>
+               </q> So that we may juſt<g ref="char:EOLhyphen"/>ly conclude with the ſame Father; <q>That by how much the more injurious, by ſo <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Chryſoſt. ibid.</note> much the grea<g ref="char:EOLhyphen"/>ter Benefactor our Enemy is; ſince the Good we get by him encreaſes, in proportion to the evil we ſuffer from him.</q>
+            </p>
+            <p>Yea, which is yet more wonderful; Whereas the on<g ref="char:EOLhyphen"/>ly thing we fear from our Enemies, is ſome outward evil, either in our Body, Goods or Name; a meek and charitable return to
+<pb n="86" facs="tcp:38520:61"/> the injury he hath done us, will not only defeat his ma<g ref="char:EOLhyphen"/>lice, but on the contrary, will render it highly advan<g ref="char:EOLhyphen"/>tageous, by procuring to us that very Good, which alone it threaten'd us with the loſs of. How many Harms will this prevent? and keep us out of the reach of many formidable Dangers, which by the con<g ref="char:EOLhyphen"/>trary courſe, we ſhould ex<g ref="char:EOLhyphen"/>poſe our ſelves to. Agree<g ref="char:EOLhyphen"/>able to which is that Story which <hi>Seneca</hi> tells us of an <note place="margin">
+                  <hi>Sen. de ira,</hi> l. 2. c. 33.</note> old Courtier: When one asked him, by what means he attain'd to old age, a thing ſo rarely met with in a Prince's Palace: He
+<pb n="87" facs="tcp:38520:61"/> anſwer'd; <q>By receiving <note place="margin">
+                     <hi>Illud quoque occurrat, quantum commenda<g ref="char:EOLhyphen"/>tionis nobis allatura ſit clementiae fama, &amp; quam multos venia amicos utiles fe<g ref="char:EOLhyphen"/>cerit.</hi> Sen. de ira. l. 2. c. 34.</note> Injuries, and giving thanks for them.</q>
+            </p>
+            <p>'Twill recommend us to the love and eſteem of all wiſe and virtuous perſons, ſince nothing is a more undoubted <note place="margin">
+                  <hi>Magni animi eſt injuri<g ref="char:EOLhyphen"/>rias despicere.</hi> Sen.</note> argument of a great and generous Soul; of one who <note place="margin">
+                  <hi>Nullum eſt argumentum magnitudinis certius, quam nihil poſſe, quo inſtigeris, accidere.</hi> l. 3. de ira.</note> hath gotten the maſtery over his own unruly Paſ<g ref="char:EOLhyphen"/>ſions and Appe<g ref="char:EOLhyphen"/>tites, and is able to govern himſelf. And therefore <hi>So<g ref="char:EOLhyphen"/>lomon</hi>
+               <pb n="88" facs="tcp:38520:62"/> tells us, <hi>The Prudence</hi> 
+               <note place="margin">Prov. 19. 11.</note> 
+               <hi>of a man deferreth his anger, and it is his glory to paſs over a tranſgreſſion.</hi>
+            </p>
+            <p>'Twill render us amia<g ref="char:EOLhyphen"/>ble even to our Enemies; Yea, (as S. <hi>Chryſoſtome</hi> tells us) though they be very Devils, <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Chryſoſt. in Matth. c. 18. Hom. 62.</note> and will beget in them a venera<g ref="char:EOLhyphen"/>ble eſteem of us: And by conſe<g ref="char:EOLhyphen"/>quence, 'tis of all means the moſt powerful, for convert<g ref="char:EOLhyphen"/>ing them from Enemies into Friends.</p>
+            <p>Theſe are ſome of thoſe highly valuable Benefits, which a man reaps from in<g ref="char:EOLhyphen"/>juries, who is of a charitable
+<pb n="89" facs="tcp:38520:62"/> and forgiving temper; all which the angry and re<g ref="char:EOLhyphen"/>vengeful man deprives him<g ref="char:EOLhyphen"/>ſelf of: Nor does he on<g ref="char:EOLhyphen"/>ly theſe and many more Advantages, but he alſo brings upon himſelf the con<g ref="char:EOLhyphen"/>trary miſchiefs. For,</p>
+            <p>
+               <hi>Thirdly,</hi> He chafes and in<g ref="char:EOLhyphen"/>rages the ſmart and pain of the injury he hath already receiv'd, and renders it more intolerable. Whoſo<g ref="char:EOLhyphen"/>ever heartily forgives a wrong, he is no more diſquie<g ref="char:EOLhyphen"/>ted at the thoughts of it, 'tis to him as if it had never been; he is as well contented (that is, as happy a man) as if no ſuch evil had been done
+<pb n="90" facs="tcp:38520:63"/> to him: Whereas on the contrary, the man that me<g ref="char:EOLhyphen"/>ditates Revenge, he daily renews his own Grief, and makes it more ſharp and afflictive by putting new ſtings into it; He galls him<g ref="char:EOLhyphen"/>ſelf ſo much the more, by his impatient ſtruggling un<g ref="char:EOLhyphen"/>der his burden; He frets and inflames thoſe wounds, that would otherwiſe ſoon heal, and do well of themſelves; and ſo inſtead of wounding his Enemy, he vexes and torments his own ſoul; and as the <hi>Apoſtle</hi> ſpeaks in another caſe, <hi>pierces himſelf thorow with many ſorrows.</hi>
+            </p>
+            <p>Nor does he only make the evil he already ſuffers,
+<pb n="91" facs="tcp:38520:63"/> more painful and burthen<g ref="char:EOLhyphen"/>ſome; but which is worſe,</p>
+            <p>
+               <hi>Fourthly,</hi> He provokes his Enemy to wrong him more, and uſually brings greater evils upon himſelf thereby. Revenge is both the Daugh<g ref="char:EOLhyphen"/>ter, and the Mother of inju<g ref="char:EOLhyphen"/>ry; the Daughter of that which went before it, the Mother of many that follow after: For an injury repaid, ſeldom fails to increaſe and multiply upon him that re<g ref="char:EOLhyphen"/>pays it, and that not only in the ſame kind, but in a worſe; by retaliating a reproachful word only, how often doth the Avenger expoſe himſelf
+<pb n="92" facs="tcp:38520:64"/> to Blows and Wounds, yea, frequently to Death it ſelf?</p>
+            <p>I know 'tis ſaid; That to paſs by one injury is the rea<g ref="char:EOLhyphen"/>dieſt way to invite another. As fire is made the more outragious, by pouring upon it the ſofteſt oyl; ſo the calm bearing of the firſt Affront, inſtead of cooling, will only inflame the wrath of our Ad<g ref="char:EOLhyphen"/>verſary, and make him more intolerably inſolent.</p>
+            <p>'Tis true, this is ſaid; but by whom? by men of wild and ſavage tempers, who having put off humanity, are fit only to dwell in a Wilder<g ref="char:EOLhyphen"/>neſs, and to aſſociate with Beaſts of prey. But as a
+<pb n="93" facs="tcp:38520:64"/> Monſter in nature, is no Ar<g ref="char:EOLhyphen"/>gument againſt the regular courſe of things; ſo neither are ſuch Prodigies in morali<g ref="char:EOLhyphen"/>ty, any prejudice to the com<g ref="char:EOLhyphen"/>mon ſenſe and practice of mankind. What <hi>Solomon</hi> aſ<g ref="char:EOLhyphen"/>ſerts from his own obſerva<g ref="char:EOLhyphen"/>tion, has been always and ever will be found true in the general, <hi>viz.</hi> that <hi>a ſoft Tongue</hi> 
+               <note place="margin">Prov. 25. 15.</note> 
+               <hi>breaketh the Bone;</hi> that is, by gentle and good words, a perſon of the moſt churliſh and untractable temper is ap<g ref="char:EOLhyphen"/>peaſed and overcome. And if by words only, how much more, by kind and obliging Deeds? Inſtances of this na<g ref="char:EOLhyphen"/>ture, frequently occurr both in Profane and Sacred Hiſto<g ref="char:EOLhyphen"/>ry,
+<pb n="94" facs="tcp:38520:65"/> of which I ſhall at preſent mention but one, and that is King <hi>Saul.</hi> Scarce ever was any man more envious, and maliciouſly ſet againſt any man, than he was againſt <hi>David;</hi> yet when his evil <note place="margin">1 Sam. 24.</note> Spirit was rais'd to the height, how was it charm'd and laid! how did he relent and diſ<g ref="char:EOLhyphen"/>ſolve into tears, at the meek and humble words, and the unexpected kindneſs of <hi>David</hi> to him!</p>
+            <p>But what need I inſiſt up<g ref="char:EOLhyphen"/>on particular Inſtances? I appeal to your own experi<g ref="char:EOLhyphen"/>ence, whether any men are uſually ſo free from injuries? whether any lead ſo ſafe and quiet, and peaceable a life, as
+<pb n="95" facs="tcp:38520:65"/> thoſe who are moſt meek and patient, moſt good and gracious and ready to for<g ref="char:EOLhyphen"/>give?</p>
+            <p>For do but turn your eyes the other way, and you will ſoon have a diſmal and hor<g ref="char:EOLhyphen"/>rid Proſpect. Mark the ma<g ref="char:EOLhyphen"/>licious and behold the re<g ref="char:EOLhyphen"/>vengeful man, and you will find 'tis otherwayes with him. How often is he ſurrounded and aſſaulted with Dangers and Miſchiefs? how frequent<g ref="char:EOLhyphen"/>ly is he ingaged in Quarrels and Frays? What <hi>Solomon</hi> ſays of the Drunkard, is as truly applicable to him: <hi>Who hath wo? who hath ſorrow?</hi> 
+               <note place="margin">Prov. 23. 29.</note> 
+               <hi>who hath contention? who hath babling? who hath wounds with<g ref="char:EOLhyphen"/>out</hi>
+               <pb n="96" facs="tcp:38520:66"/> 
+               <hi>cauſe? who hath redneſs of eyes?</hi> he who is impatient of every abuſe, he who retali<g ref="char:EOLhyphen"/>ates every injury. For by returning the evil, we pro<g ref="char:EOLhyphen"/>voke and inrage the evil-do<g ref="char:EOLhyphen"/>er; and not only ſo, but we give him the ſame plea and pretence, for avenging him<g ref="char:EOLhyphen"/>ſelf upon us, that we before had, for avenging our ſelves upon him; and by this means, the evil will never ceaſe, but will be toſs'd back<g ref="char:EOLhyphen"/>ward and forward without end; and the further it pro<g ref="char:EOLhyphen"/>ceeds, ſo much the more miſchievous and malignant will it grow.</p>
+            <p>Theſe are ſome of the e<g ref="char:EOLhyphen"/>vils, which the ſpiteful man
+<pb n="97" facs="tcp:38520:66"/> brings upon himſelf; and ſuch (one would think) as might be more than ſufficient to affright us to the greateſt diſtance from this ſin. And yet,</p>
+            <p>
+               <hi>Fifthly,</hi> Theſe are ſo little, that they deſerve not to be mention'd, if compar'd with thoſe evils he brings upon himſelf from God; for by his Enmity againſt his Neigh<g ref="char:EOLhyphen"/>bour, he makes God an Ene<g ref="char:EOLhyphen"/>my to himſelf, who will not entertain any thoughts of Reconciliation to him, till he be firſt reconciled to his of<g ref="char:EOLhyphen"/>fending Brother. Now God's ſore Diſpléaſure againſt him is manifeſt by the diſmal
+<pb n="98" facs="tcp:38520:67"/> fruits and effects of it. For,</p>
+            <p n="1">1. So angry is God with him, that he will accept no worſhip from him; but all his moſt Religious ſervices ſhall be rejected as unclean, as long as he is out of charity with his Neighbour. This we are taught by our great Maſter; <hi>If thou bring,</hi> ſaith he, <note place="margin">Matt. 5. 23, 24.</note> 
+               <hi>thy Gift to the Altar, and there remembreſt that thy Brother hath ought againſt thee,</hi> for any in<g ref="char:EOLhyphen"/>jury thou haſt done him, <hi>leave there thy Gift before the Altar,</hi> do not dare to <hi>preſent it to God, but go firſt and be reconciled to thy Brother,</hi> (that is, do thy indeavour to appeaſe his an<g ref="char:EOLhyphen"/>ger, and to get him reconci<g ref="char:EOLhyphen"/>led
+<pb n="99" facs="tcp:38520:67"/> to thee) and after thou haſt ſo done, <hi>then come and of<g ref="char:EOLhyphen"/>fer thy Gift.</hi> And if God would not accept a Gift from him who had done an injury, till he had ſincerely indea<g ref="char:EOLhyphen"/>vour'd to make ſatisfaction for it; would he not much rather have abhor'd it, if at the very time when he offer'd it, he deſign'd or wiſh'd any miſchief to his Neighbour?</p>
+            <p>And as all the Sacrifices of old were rejected, when ſowr'd with the leaven of malice in him that brought them; ſo as little acceptable will all our Chriſtian Sacrifi<g ref="char:EOLhyphen"/>ces be, unleſs attended with Charity and Forgiveneſs in thoſe that offer them. For
+<pb n="100" facs="tcp:38520:68"/> as <hi>with the merciful, God will</hi> 
+               <note place="margin">Pſal. 18. 25, 26.</note> 
+               <hi>ſhew himſelf merciful; ſo with the froward he will ſhew himſelf fro<g ref="char:EOLhyphen"/>ward.</hi>
+            </p>
+            <p>I need not tell you, that he is no fit Gueſt for the Feaſt of Love, who harbours ha<g ref="char:EOLhyphen"/>tred in his heart againſt any man; ſince our Church in the Office for the holy Commu<g ref="char:EOLhyphen"/>nion, hath expreſly forbidden all ſuch to approach the Lord's Table; ſuppoſing that the Cup of Bleſſing would to them be turn'd into a Cup of Wrath; and that they would eat Judgment to themſelves, inſtead of Mercy. But which is worſe: Not ſo much as a<g ref="char:EOLhyphen"/>ny Prayer that is made by them (however fervent and
+<pb n="101" facs="tcp:38520:68"/> importunate) will ever be accepted; Yea, ſo far will it be from being acceptable, that it will be indeed an Abo<g ref="char:EOLhyphen"/>mination to the Lord.</p>
+            <p>Nor need we wonder at this; for, as the Father before quoted, reaſons: <q>If any one who has offend<g ref="char:EOLhyphen"/>ed thee who art <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, &amp;c. Chry<g ref="char:EOLhyphen"/>ſoſt. Hom. 20. in Matth.</note> but a man, ſhould humbly addreſs to thee, and im<g ref="char:EOLhyphen"/>plore thy Pardon, and while he lay proſtrate at thy feet, eſpy<g ref="char:EOLhyphen"/>ing his Enemy, ſhould pre<g ref="char:EOLhyphen"/>ſently leave off his ſuit to thee, and fall foul upon him; would he not in<g ref="char:EOLhyphen"/>ſtead of atoning thee, pro<g ref="char:EOLhyphen"/>voke
+<pb n="102" facs="tcp:38520:69"/> and inflame thy Diſ<g ref="char:EOLhyphen"/>pleaſure to a greater degree againſt him?</q> If ſo, how much more reaſon is there, that God ſhould be angry with thoſe Prayers that are preſented by perſons of ſuch a malignant and wretched temper?</p>
+            <p>Yea ſhould ſuch perſons as theſe, not only offer up their Prayers to God, but their Blood too; ſhould they give their Bodies to be burnt, die <note place="margin">1 Cor. 13. 3.</note> Martyrs to the true Religion, 'twould be a Sacrifice unacce<g ref="char:EOLhyphen"/>ptable to God. And in what a miſerable ſtate muſt that man be, all whoſe Prayers and Praiſes, and other moſt holy things are turn'd into ſin?
+<pb n="103" facs="tcp:38520:69"/> And yet this is not the worſt, his miſery is ſtill greater. For,</p>
+            <p n="2">2. As long as he refuſes to forgive his Brother, he puts a bar to the forgiveneſs of his own ſins. <hi>He that re<g ref="char:EOLhyphen"/>vengeth</hi> 
+               <note place="margin">Eccl. 38. 1, 4, 5.</note> (ſaith the Son of <hi>Si<g ref="char:EOLhyphen"/>rach) ſhall find Vengeance of the Lord, and he will keep his ſins in remembrance; he ſheweth no mer<g ref="char:EOLhyphen"/>cy to a man which is like himſelf, and how doth be ask forgiveneſs of his own ſins? If he that is fleſh, nouriſh hatred, who will intreat for pardon of his ſins?</hi> And (as I have already ſhew'd) our Sa<g ref="char:EOLhyphen"/>viour himſelf expreſly tells us, <hi>that if we do not forgive, neither</hi> 
+               <note place="margin">Mar. 11. 26.</note> 
+               <hi>will our Father which is in Hea<g ref="char:EOLhyphen"/>ven, forgive our Treſpaſſes.</hi>
+            </p>
+            <pb n="104" facs="tcp:38520:70"/>
+            <p> Yea, when God gives us a Pardon, 'tis upon condition that we alſo pardon others. If therefore we fail in our part, our Pardon will be recall'd, and all our ſins will return a<g ref="char:EOLhyphen"/>gain, in their full weight and vengeance upon our own heads, as our Saviour alſo tea<g ref="char:EOLhyphen"/>ches us <hi>Matt.</hi> 18. 34, 35. Now as the man is bleſs'd, <hi>to whom the Lord will not impute ſin;</hi> ſo how inexpreſſibly curs'd and miſerable muſt he be, upon whom the Lord will lay the guilt of his Iniquities? For,</p>
+            <p n="3">3. The inevitable conſe<g ref="char:EOLhyphen"/>quence of this, is Loſs and Pain, endleſs and unſupporta<g ref="char:EOLhyphen"/>ble. Such as in malice re<g ref="char:EOLhyphen"/>ſemble Devils in this world,
+<pb n="105" facs="tcp:38520:70"/> they ſhall have their portion with Devils in the next; be everlaſtingly ſeparated from the preſence of God, (in whoſe preſence there is fulneſs of joy) and ſuffer the Venge<g ref="char:EOLhyphen"/>ance of that eternal fire, which they themſelves by the coals of their Revenge have kind<g ref="char:EOLhyphen"/>led. <hi>And who can dwell with de<g ref="char:EOLhyphen"/>vouring fire? who can dwell with everlaſting burning?</hi> If in their cool and ſober moods, they think the phantaſtick plea<g ref="char:EOLhyphen"/>ſure of Revenge, a ſufficient Recompence for thoſe evils; let them ſtill go on, and gra<g ref="char:EOLhyphen"/>tifie their Diabolical appe<g ref="char:EOLhyphen"/>tite.</p>
+            <p>
+               <hi>Sixthly,</hi> Nor can we think this hard meaſure from God,
+<pb n="106" facs="tcp:38520:71"/> if we conſider, that it is no more, than what they them<g ref="char:EOLhyphen"/>ſelves daily pray for. For as of<g ref="char:EOLhyphen"/>ten as they uſe the Lord's Pray<g ref="char:EOLhyphen"/>er, or any other Prayer confor<g ref="char:EOLhyphen"/>mable to it, they pray to God for their own Damnati<g ref="char:EOLhyphen"/>on. The reaſon is obvious, becauſe we pray, <hi>forgive us our Treſpaſſes, as we forgive them that treſpaſs againſt us;</hi> that is, we ask the forgiveneſs of our ſins againſt God, but up<g ref="char:EOLhyphen"/>on condition that we alſo for<g ref="char:EOLhyphen"/>give the treſpaſſes of our Bre<g ref="char:EOLhyphen"/>thren againſt our ſelves. If therefore we do not forgive, we in effect pray, that God would never forgive us, but deal with us according to the merits of our ſins.</p>
+            <pb n="107" facs="tcp:38520:71"/>
+            <p> And can the man who ſtudies Revenge, think of this without horrour and trem<g ref="char:EOLhyphen"/>bling? Can he think the Pu<g ref="char:EOLhyphen"/>niſhment his own ſin de<g ref="char:EOLhyphen"/>ſerves, ſo ſmall, that he can find in his heart to pray to God for it, rather than remit the Puniſhment of his Neigh<g ref="char:EOLhyphen"/>bours offences? If it be poſſi<g ref="char:EOLhyphen"/>ble that any mans under<g ref="char:EOLhyphen"/>ſtanding ſhould at preſent be ſo darken'd, and his Conſci<g ref="char:EOLhyphen"/>ence ſo ſtupefied with the fumes of his inordinate Paſſi<g ref="char:EOLhyphen"/>ons; yet when he ſhall feel the Vengeance which he now prays for; when he ſhall come to know experimentally what the wages of his ſins are, he will be ſufficiently ſen<g ref="char:EOLhyphen"/>ſible of the madneſs of his
+<pb n="108" facs="tcp:38520:72"/> choice. How will he then rage againſt himſelf, and ag<g ref="char:EOLhyphen"/>gravate his own folly? How will he become his own Tor<g ref="char:EOLhyphen"/>menter? and execute himſelf the Vengeance of God upon his own ſoul?</p>
+            <p>I might farther inlarge up<g ref="char:EOLhyphen"/>on this Argument, but I think it needleſs. More than e<g ref="char:EOLhyphen"/>nough hath been already ſaid to convince you, that he who recompences evil to his Enemy, hath no Enemy in the world ſo bad as himſelf; that he brings more miſchiefs upon his own head, than 'tis in the power of any other, either men or Devils to do. Should we therefore be ſo impious as to have no regard to the Reli<g ref="char:EOLhyphen"/>gion we profeſs, yet methinks
+<pb n="109" facs="tcp:38520:72"/> we ſhould be powerfully ſway'd by our Intereſt. If for God's ſake we will not mortifie this Deviliſh Paſſion, yet ſhall we not do it for our own? Have we no compaſſi<g ref="char:EOLhyphen"/>on for our ſelves? Or can our Luſts ſo perfectly reconcile contradictions, as to make our Pains to become our Plea<g ref="char:EOLhyphen"/>ſures? If not, we need not ſo much as deliberate; no man was ever yet ſo mad as to queſtion, whether he ſhould chuſe to be happy or miſerable.</p>
+            <p>It may perhaps ſeem ſuper<g ref="char:EOLhyphen"/>fluous to add more Diſſua<g ref="char:EOLhyphen"/>ſives from this ſin; for ſhould we be ſo monſtrouſly dege<g ref="char:EOLhyphen"/>nerated, as to contradict not only our Religion, but our
+<pb n="110" facs="tcp:38520:73"/> Reaſon too; ſhould we be ſo far from approving our ſelves Chriſtians, as not to act like Men; yet in caſe we are not fallen below the Brute Creatures, the Arguments al<g ref="char:EOLhyphen"/>ready propos'd will prevail with us; ſince there is not the vileſt of the Beaſts that periſh, that by the bare in<g ref="char:EOLhyphen"/>ſtinct of nature, does not ſhun thoſe things that are deſtru<g ref="char:EOLhyphen"/>ctive of its own welfare.</p>
+            <p>Yet becauſe many men ſuppoſe they have a ſufficient plea for their Revenge, from the injuſtice of the perſon they take Revenge upon; becauſe however evil it may be in it ſelf, and however hurtful it may be to us, yet it is no more, they think, than what
+<pb n="111" facs="tcp:38520:73"/> is due to him; for what (ſay they) is more juſt and equal, than that a man ſhould reap as he ſows? that as he does to others, it ſhould be done to him again?</p>
+            <p n="4">IV. I ſhall therefore pro<g ref="char:EOLhyphen"/>ceed in the Fourth place to ſhew you, that Revenge is inhumane and unreaſonable, even in reſpect of the perſon who hath done us wrong. And that upon theſe three ac<g ref="char:EOLhyphen"/>counts eſpecially.</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe he is ſo near<g ref="char:EOLhyphen"/>ly related to us by nature, and (if he be a Chriſtian) by Religion too. The man whom we are ſo highly in<g ref="char:EOLhyphen"/>cenſed againſt, is he not our
+<pb n="112" facs="tcp:38520:74"/> Brother? is he not of the ſame blood? does he not de<g ref="char:EOLhyphen"/>rive his Pedigree from the ſame common Parents with our ſelves? Now <hi>Moſes</hi> thought it a good Argument; <hi>Sirs, ye are Brethren, why do ye</hi> 
+               <note place="margin">Act. 7. 26.</note> 
+               <hi>wrong one to another?</hi> And is not the Argument altogether as forcible, Sirs, ye are Bre<g ref="char:EOLhyphen"/>thren, Why do ye recompence wrong one to another?</p>
+            <p>'Tis true indeed, the cloſe union that is between us, ought to have kept him from doing us wrong, and there<g ref="char:EOLhyphen"/>fore he is ſo much the more to blame for doing it; but ſuppoſing he has done it, it ſhould be alſo of equal force to withhold us from avenge<g ref="char:EOLhyphen"/>ing it. If one foot ſhould be
+<pb n="113" facs="tcp:38520:74"/> ſo unkind as to kick the other, ſhall the other alſo be ſo un<g ref="char:EOLhyphen"/>natural as to return the blow? The reaſon is much the ſame in the Argument now before us. We are all members of one Body, or (as. S. <hi>Paul</hi> ex<g ref="char:EOLhyphen"/>preſſes it) <hi>we are members one</hi> 
+               <note place="margin">Epheſ. 4. 24.</note> 
+               <hi>of another;</hi> and therefore 'tis as unreaſonable for us to recom<g ref="char:EOLhyphen"/>pence evil one to another, as 'twould be for the Members in the natural Body ſo to do. And ſo much the more mon<g ref="char:EOLhyphen"/>ſtrous is it, becauſe, as the Apoſtle tells us, <hi>if one member</hi> 
+               <note place="margin">1 Cor. 12. 26.</note> 
+               <hi>ſuffer, all the members ſuffer with it; or if one member be honour<g ref="char:EOLhyphen"/>ed, all the members rejoyce with it.</hi> And therefore to do deſpite to our Neighbour, is in effect to be cruel to our
+<pb n="114" facs="tcp:38520:75"/> ſelves; and to ſhew favour to him, is to be kind to our own fleſh. And ſince our Neighbour is ſo nearly uni<g ref="char:EOLhyphen"/>ted to us, is as it were a part of our ſelves, we may thence conclude,</p>
+            <p>
+               <hi>Secondly,</hi> That the wrong he does to us, is ever to be imputed to ſome Weakneſs or Diſeaſe of Mind; either to Ignorance, or Paſſion, or ſome other Diſtemper he la<g ref="char:EOLhyphen"/>bours under; ſince we may well take it for granted, that were he truly himſelf, did he rightly underſtand and duly conſider what he does, he could never entertain a thought of hurting thoſe who are bone of his bone, and fleſh of his fleſh.</p>
+            <pb n="115" facs="tcp:38520:75"/>
+            <p> As in the natural Body, no member creates any grief or pain to its fellow-member, unleſs it ſelf be firſt ſore or diſeas'd; ſo likewiſe in the Civil or Myſtical Body, the members that are ſound and healthful, are ſo far from breeding any annoy<g ref="char:EOLhyphen"/>ance to others, that they are all mutually uſeful and ſerviceable to each others good.</p>
+            <p>And is it not unreaſona<g ref="char:EOLhyphen"/>ble to repay that evil to our Neighbour, which had he been maſter of himſelf, he would have been ſo far from doing, that he would from his heart have abhorr'd the very thoughts of it? Should a man in a violent
+<pb n="116" facs="tcp:38520:76"/> Fever or Frenſie never ſo much abuſe us, ſhould we not think it an unmanly thing to fall foul upon him again? <note place="margin">
+                  <hi>Quis enim phrenetico Medicus iraſcitur? quis febricitantis &amp; frigida prohibiti maledicta in malam partem accipit,</hi> &amp;c. Sen. in Sap. non cadit Injur.</note> Should we not ra<g ref="char:EOLhyphen"/>ther excuſe and pity him, ſaying, Alas, it is his di<g ref="char:EOLhyphen"/>ſtemper, he knows not what he does; if he live to come to himſelf, he will be heartily ſorry for it. And ſhall we not much rather have compaſ<g ref="char:EOLhyphen"/>ſion for him, whoſe ſoul is darkened with Ignorance, inflam'd with Anger, puff'd up with Pride, rackt (it may be) with covetous and inſatiable deſires, diſaffect<g ref="char:EOLhyphen"/>ed not in one, but in all
+<pb n="117" facs="tcp:38520:76"/> its Faculties, ſo that there is no ſound part to be found in it? And therefore inſtead of inflaming his Diſtemper, by returning the evil upon his own head, we ſhould ra<g ref="char:EOLhyphen"/>ther by all mild and gentle applications, endeavour to remove it, and to bring him to a ſound conſtitution of Soul.</p>
+            <p>And in caſe our charitable endeavours this way prove ineffectual, and he ſtill per<g ref="char:EOLhyphen"/>ſiſts in his evil practices, and grow intolerably trou<g ref="char:EOLhyphen"/>bleſome and afflictive to us, there is one Remedy at hand of God's own ap<g ref="char:EOLhyphen"/>pointment, which in ſuch a caſe we are allow'd to have recourſe to (not with
+<pb n="118" facs="tcp:38520:77"/> a deſign of doing the leaſt miſchief to him, but of ſe<g ref="char:EOLhyphen"/>curing our ſelves from the miſchief he would do to us) I mean the Miniſters of publick Juſtice, whom God hath appointed to be the Phyſicians of the Body Politick, for the curing or cutting off ſuch diſeaſed members, that breed no<g ref="char:EOLhyphen"/>thing but diſturbance and annoyance to their fellow<g ref="char:EOLhyphen"/>members. However 'tis certain, that his conditi<g ref="char:EOLhyphen"/>on calls for our Pity ra<g ref="char:EOLhyphen"/>ther than our Wrath, as is further evident, be<g ref="char:EOLhyphen"/>cauſe,</p>
+            <p>
+               <hi>Thirdly,</hi> By the wrong he does to us, he does a far
+<pb n="119" facs="tcp:38520:77"/> greater injury to himſelf. He perhaps hurts our Body, but <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. Hieroc. Fragment. Serm. 10.</note> what is that to the wounding of his own ſoul? In ſeeking to rob us of our good name, he deprives him<g ref="char:EOLhyphen"/>ſelf of his Inno<g ref="char:EOLhyphen"/>cency and a good Conſci<g ref="char:EOLhyphen"/>ence. He makes ſome lit<g ref="char:EOLhyphen"/>tle treſpaſs upon our Lands; if he do it wittingly, with<g ref="char:EOLhyphen"/>out Reſtitution or Satisfacti<g ref="char:EOLhyphen"/>on, he will ſhut himſelf out of the Kingdom of Hea<g ref="char:EOLhyphen"/>ven. The miſchief he does to himſelf, ſo infinitely ex<g ref="char:EOLhyphen"/>ceeds that he does to us, that there is no compariſon between them; And ſhall
+<pb n="120" facs="tcp:38520:78"/> we be ſo cruel as to wrong him more? No: rather by meekneſs and Patience, by kindneſs and Goodneſs, by friendly advice and coun<g ref="char:EOLhyphen"/>ſel, let us teach him better things, and indeavour to bring him to a ſober mind.</p>
+            <p>You have heard how op<g ref="char:EOLhyphen"/>poſite it is to our Religion, how impious towards God, how hurtful to our ſelves, how inhumane with reſpect even to the Offender, <hi>to re<g ref="char:EOLhyphen"/>compence evil for evil.</hi> I proceed now to the laſt general Head propos'd.</p>
+            <p n="5">V. Nor is it leſs deſtru<g ref="char:EOLhyphen"/>ctive of the Publick, than 'tis of the private Good, either of
+<pb n="121" facs="tcp:38520:78"/> our ſelves, or our Neigh<g ref="char:EOLhyphen"/>bours; As it breaks the Peace, inverts Order, overturns Go<g ref="char:EOLhyphen"/>vernment, and ſhould it be generally practiſed, would introduce all the miſchiefs of War, Anarchy, and Confu<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>'Tis a true ſaying, That 'tis the Second blow makes the Fray; for if the firſt be pati<g ref="char:EOLhyphen"/>ently born, no Quarrel enſues upon it, no more miſchief is done; but when that is return'd, a Civil War is preſently com<g ref="char:EOLhyphen"/>menc'd, which by a ſucceſ<g ref="char:EOLhyphen"/>ſive reciprocation of affronts and injuries, may perhaps be continu'd longer than the lives of thoſe who began it, and be deriv'd from them to their Poſterity.</p>
+            <pb n="122" facs="tcp:38520:79"/>
+            <p> Though there are ſome Places that are not infeſted with any ſort of wild Beaſts, (as 'tis reported of <hi>Crete)</hi> 
+               <note place="margin">Plut. de ca<g ref="char:EOLhyphen"/>piend. ab hoſt. utili<g ref="char:EOLhyphen"/>tat.</note> Yet ſince the World was ne<g ref="char:EOLhyphen"/>ver brought to ſo good a paſs, that any Countrey could be found, that is free from Ha<g ref="char:EOLhyphen"/>tred, Variance, Emulation, Wrath, Strife; but in all publick Societies, there have ever been no ſmall number of covetous and rapacious, of proud, contentious and ill-temper'd perſons, who have been too apt to give provoca<g ref="char:EOLhyphen"/>tions; if every one that is provok'd, ſhould purſue Re<g ref="char:EOLhyphen"/>venge, all Peace would ſoon be at an end, all humane Society would diſſolve; from men we ſhould be transform'd into
+<pb n="123" facs="tcp:38520:79"/> ravenous Beaſts, that would mutually bite and devour one another.</p>
+            <p>Nor can it be imagin'd how this miſchief ſhould be pre<g ref="char:EOLhyphen"/>vented, if every man ſhould take upon himſelf to be a Judge and an Avenger in his own cauſe: For in caſe he that apprehends himſelf wrong'd, will needs be a Judge; by the ſame reaſon, he that does the wrong, may aſ<g ref="char:EOLhyphen"/>ſume to himſelf the ſame au<g ref="char:EOLhyphen"/>thority: And if every man be his own Judge, their de<g ref="char:EOLhyphen"/>terminations will be as con<g ref="char:EOLhyphen"/>tradictory as their Judge<g ref="char:EOLhyphen"/>ments, and their Judgements as their Prejudices and Paſſi<g ref="char:EOLhyphen"/>ons and Intereſts; and ſo the War muſt of neceſſity be end<g ref="char:EOLhyphen"/>leſs.</p>
+            <pb n="124" facs="tcp:38520:80"/>
+            <p> The Summ is this: In caſe we were permitted every man to be our own Avengers, then, 1. There would be no place left for the Office of the publick Magiſtrate. 2. E<g ref="char:EOLhyphen"/>very private perſon would aſcend the Tribunal and the Throne, and become a Law<g ref="char:EOLhyphen"/>giver and a Judge in his own cauſe. 3. We ſhould then have as many unſubordinate and Supreme Judges, as there are particular perſons in the World, who do and repay wrongs one to another. 4. Their Judgments would be as contradictory to each other, as their Affections and Intereſts. 5. Their Reſolu<g ref="char:EOLhyphen"/>tions and Determinations would be as contradictory as
+<pb n="125" facs="tcp:38520:80"/> their Judgments. And there<g ref="char:EOLhyphen"/>fore, 6. They could never come to an agreement among themſelves, but muſt be in a perpetual ſtate of War. From whence would follow in the concluſion, the diſſolution of all humane Society. For if every man who is ſuppoſed at any time to do any kind of injury either in word or deed; and every man who ſuppoſes himſelf to have receiv'd any ſort of injury, ſhould riſe up one againſt another, and take upon them to avenge them<g ref="char:EOLhyphen"/>ſelves; their number would be ſo great, as to put the World into confuſion, and render it an habitation fitter for Wolves and Tigers, than for men.</p>
+            <pb n="126" facs="tcp:38520:81"/>
+            <p> As therefore we deſire not to be the Diſturbers and De<g ref="char:EOLhyphen"/>ſtroyers of the publick Peace, let us give check to all deſires of Revenge; ſince the more theſe are indulg'd, ſo much the more will the peace be bro<g ref="char:EOLhyphen"/>ken. And therefore the Apo<g ref="char:EOLhyphen"/>ſtle having in the <hi>Verſe</hi> next after my Text, commanded us, <hi>as much as in us lies, to live peaceably with all men;</hi> he im<g ref="char:EOLhyphen"/>mediately adds, as a means in order to this end, and as that without which we can never attain to it, <hi>not avenging your ſelves.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Page 42. l. 20. read <hi>was pleas'd.</hi> p. 71. l. 6. r., <hi>that upon ſome account, it.</hi> p. 73. l. ult. r. <hi>it;</hi> marg. l. 6. r. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. p. 75. l. 17. r. <hi>as great á p.</hi> 87. at l. 4. inſert the firſt <hi>Note.</hi> p. 89. l. 5. r. <hi>ly loſe.</hi>
+            </p>
+            <pb facs="tcp:38520:81"/>
+         </div>
+      </back>
+   </text>
+</TEI>
